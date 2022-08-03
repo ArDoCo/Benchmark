@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.2" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.2" id="_bSa2gNaJEeyOCf5awdB2Xg" entityName="New Repository">
+  <components__Repository xsi:type="repository:BasicComponent" id="_WNIQcNd1EeyZ9cZooiEx4g" entityName="SubmissionService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_mAXfsNd1EeyZ9cZooiEx4g" entityName="SubmissionService.ISubmissionService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_3RdCcNd0EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_B4C7wNd3EeyZ9cZooiEx4g" entityName="SubmissionService.IVerificationService.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_Dde6cNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_wpUwgNd3EeyZ9cZooiEx4g" entityName="SubmissionService.IPostgres.OperationRequiredRole2" requiredInterface__OperationRequiredRole="_KspP0Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_Z_dSkNd1EeyZ9cZooiEx4g" entityName="DistributionService" componentType="INFRASTRUCTURE_COMPONENT">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_m5LXANd1EeyZ9cZooiEx4g" entityName="DistributionService.IDistributionService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_55jGENd0EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_EeuDENd3EeyZ9cZooiEx4g" entityName="DistributionService.IObjectStore.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_GGT94Nd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_xqlZMNd3EeyZ9cZooiEx4g" entityName="DistributionService.IPostgres.OperationRequiredRole2" requiredInterface__OperationRequiredRole="_KspP0Nd1EeyZ9cZooiEx4g"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_m5RdoNd1EeyZ9cZooiEx4g" describedService__SEFF="_6dvYQNd0EeyZ9cZooiEx4g">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_m5Rdodd1EeyZ9cZooiEx4g" successor_AbstractAction="_m5Rdotd1EeyZ9cZooiEx4g"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_m5Rdotd1EeyZ9cZooiEx4g" predecessor_AbstractAction="_m5Rdodd1EeyZ9cZooiEx4g"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_bO5hMNd1EeyZ9cZooiEx4g" entityName="FederationCallbackService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_nV1d0Nd1EeyZ9cZooiEx4g" entityName="FederationCallbackService.IFederationCallbackService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_8rwH8Nd0EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_2xQYENd3EeyZ9cZooiEx4g" entityName="FederationCallbackService.IPostgres.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_KspP0Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_cUDycNd1EeyZ9cZooiEx4g" entityName="FederationKeyUploadService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_nw4bENd1EeyZ9cZooiEx4g" entityName="FederationKeyUploadService.IFederationKeyUploadService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_-hndYNd0EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_HYUtcNd3EeyZ9cZooiEx4g" entityName="FederationKeyUploadService.IGatewayService.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_Er4nQNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_za6HUNd3EeyZ9cZooiEx4g" entityName="FederationKeyUploadService.IPostgres.OperationRequiredRole2" requiredInterface__OperationRequiredRole="_KspP0Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_eDo5sNd1EeyZ9cZooiEx4g" entityName="FederationKeyDownloadService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_oTW2ANd1EeyZ9cZooiEx4g" entityName="FederationKeyDownloadService.IFederationKeyDownloadService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_Au50UNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_If0hANd3EeyZ9cZooiEx4g" entityName="FederationKeyDownloadService.IGatewayService.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_Er4nQNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_05tnoNd3EeyZ9cZooiEx4g" entityName="FederationKeyDownloadService.IPostgres.OperationRequiredRole2" requiredInterface__OperationRequiredRole="_KspP0Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_fSX9sNd1EeyZ9cZooiEx4g" entityName="EdgeServer" componentType="INFRASTRUCTURE_COMPONENT">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_os1tANd1EeyZ9cZooiEx4g" entityName="EdgeServer.IEdgeServer.OperationProvidedRole1" providedInterface__OperationProvidedRole="_Hu5sUNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_94hLINd2EeyZ9cZooiEx4g" entityName="EdgeServer.IObjectStore.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_GGT94Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_svr3YNd1EeyZ9cZooiEx4g" entityName="VerificationService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_1ESK0Nd1EeyZ9cZooiEx4g" entityName="VerificationService.IVerificationService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_Dde6cNd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_uNq4UNd1EeyZ9cZooiEx4g" entityName="GatewayService">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_1wSVMNd1EeyZ9cZooiEx4g" entityName="GatewayService.IGatewayService.OperationProvidedRole1" providedInterface__OperationProvidedRole="_Er4nQNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_KQlUANd3EeyZ9cZooiEx4g" entityName="GatewayService.IFederationCallbackService.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_8rwH8Nd0EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_vmnBMNd1EeyZ9cZooiEx4g" entityName="Postgres" componentType="INFRASTRUCTURE_COMPONENT">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_2O3HkNd1EeyZ9cZooiEx4g" entityName="Postgres.IPostgres.OperationProvidedRole1" providedInterface__OperationProvidedRole="_KspP0Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_wxk_gNd1EeyZ9cZooiEx4g" entityName="MobileClient">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_2rv34Nd1EeyZ9cZooiEx4g" entityName="MobileClient.IMobileClient.OperationProvidedRole1" providedInterface__OperationProvidedRole="_Jt03INd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_y35WUNd2EeyZ9cZooiEx4g" entityName="MobileClient.IEdgeServer.OperationRequiredRole1" requiredInterface__OperationRequiredRole="_Hu5sUNd1EeyZ9cZooiEx4g"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_7XIMcNd2EeyZ9cZooiEx4g" entityName="MobileClient.ISubmissionService.OperationRequiredRole2" requiredInterface__OperationRequiredRole="_3RdCcNd0EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_xogAcNd1EeyZ9cZooiEx4g" entityName="ObjectStore" componentType="INFRASTRUCTURE_COMPONENT">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_3EUv8Nd1EeyZ9cZooiEx4g" entityName="ObjectStore.IObjectStore.OperationProvidedRole1" providedInterface__OperationProvidedRole="_GGT94Nd1EeyZ9cZooiEx4g"/>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_3RdCcNd0EeyZ9cZooiEx4g" entityName="ISubmissionService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_55jGENd0EeyZ9cZooiEx4g" entityName="IDistributionService">
+    <signatures__OperationInterface id="_6dvYQNd0EeyZ9cZooiEx4g" entityName="method1"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_8rwH8Nd0EeyZ9cZooiEx4g" entityName="IFederationCallbackService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_-hndYNd0EeyZ9cZooiEx4g" entityName="IFederationKeyUploadService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Au50UNd1EeyZ9cZooiEx4g" entityName="IFederationKeyDownloadService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Dde6cNd1EeyZ9cZooiEx4g" entityName="IVerificationService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Er4nQNd1EeyZ9cZooiEx4g" entityName="IGatewayService"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_GGT94Nd1EeyZ9cZooiEx4g" entityName="IObjectStore"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Hu5sUNd1EeyZ9cZooiEx4g" entityName="IEdgeServer"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Jt03INd1EeyZ9cZooiEx4g" entityName="IMobileClient"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KspP0Nd1EeyZ9cZooiEx4g" entityName="IPostgres"/>
+</repository:Repository>
