@@ -39,3 +39,9 @@ Therefore, the text we extracted from their documentation is licensed according 
 Teastore is a scientific application that is used as a "micro-service reference test application".
 The [documentation](https://web.archive.org/web/20201102180945/https://github.com/DescartesResearch/teastore/wiki/Services) of Teastore was part of their [repository](https://github.com/DescartesResearch/teastore).
 Therefore, the text we extracted from their documentation is licensed according to the [license of Teastore](https://github.com/DescartesResearch/TeaStore/blob/master/README.md) under Apache-2.0.
+
+### JabRef
+JabRef is a tool to manage citations and references in your bibliographies. It has features to collect, organize, cite, and share research work.
+
+The [documentation](https://github.com/JabRef/jabref/blob/main/docs/getting-into-the-code/high-level-documentation.md) of JabRef is part of their [repository](https://github.com/JabRef/jabref/).
+Therefore, the text we extracted from their documentation is licensed according to the [license of JabRef](https://github.com/JabRef/jabref/blob/main/LICENSE.md), i.e., MIT.
