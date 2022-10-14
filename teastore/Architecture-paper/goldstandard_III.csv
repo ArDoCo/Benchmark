@@ -1,0 +1,8 @@
+WebUI, Registry, ImageProvider, Auth, Persistence, Recommender
+
+modelElement,sentence
+ImageProvider,8
+Recommender,10
+Recommender,14
+Persistence,16
+Registry,23
