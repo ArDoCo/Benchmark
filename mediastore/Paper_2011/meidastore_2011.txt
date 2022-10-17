@@ -1,0 +1,10 @@
+Running Example: MediaStore
+MediaStore is a simplified but fully implemented component-based system with intentionally reduced complexity for illustration purposes.
+Figure 1 visualizes the system’s static architecture with a UML diagram.
+The system lets users download and upload various media files (for example, audio and video files) to a central database.
+The expected usage profile is 40 user requests per minute, where each request consists of 8 to 12 files with a size of 1 to 8 Mbytes each, which can be modeled as a probability distribution.
+The software architect has assembled the system from several software components, including some potential third-party components.
+For example, the Webform component handles user interactions, whereas the MediaStore component contains the business logic.
+Upon an upload request, the store re-encodes the user-provided files using the external OggEncoder component, which writes the files to disk and encodes them to a standard bit rate.
+The initial design in Figure 1 still has many degrees of freedom (for example, server sizes, component allocation to the servers, and alternative components).
+The software architect is interested in analyzing the initial design’s performance.

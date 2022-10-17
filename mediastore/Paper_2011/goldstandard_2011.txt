@@ -1,0 +1,8 @@
+WebBrowser,WebForm, MediaStore, User Management, OggEncoder, EncodingAdapter, DBAdapter, MySqlClient, MySqlDB
+
+modelElement,sentence
+MySqlDB,4
+WebForm,7
+MediaStore,7
+OggEncoder,8
+
