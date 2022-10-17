@@ -1,0 +1,13 @@
+gui, cli, logic, globals, model, preferences
+
+modelElement,sentence
+model,2
+logic,2
+gui,2
+model,5
+logic,6
+model,6
+gui,6
+gui,7
+model,9
+
