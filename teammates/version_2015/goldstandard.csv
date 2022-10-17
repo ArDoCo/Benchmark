@@ -1,0 +1,71 @@
+common, ui, logic, storage, test driver, e2e, client, gae datastore
+
+modelElement,sentence
+ui,3
+ui,4
+storage,9
+gae datastore,9
+test,13
+client,15
+common,17
+logic,20
+ui,20
+ui,21
+ui,23
+logic,34
+ui,54
+logic,59
+logic,60
+logic,61
+ui,64
+logic,66
+logic,67
+logic,68
+test driver,68
+logic,69
+logic,70
+logic,71
+logic,72
+ui,72
+logic,73
+ui,73
+ui,74
+test driver,76
+ui,80
+logic,80
+storage,86
+storage,111
+storage,112
+storage,113
+storage,114
+storage,115
+gae datastore,115
+storage,116
+logic,119
+storage,120
+storage,121
+gae datastore,122
+common,124
+storage,127
+logic,128
+gae datastore,134
+common,150
+common,151
+common,152
+common,153
+common,154
+common,156
+test driver,159
+test driver,165
+test driver,166
+test driver,167
+test driver,168
+test driver,169
+ui,172
+common,173
+logic,174
+storage, 175
+client,180
+client,181
+client,182
+client,183
