@@ -1,4 +1,3 @@
-B. Services 
 The TeaStore consists of five services, in addition to a registry necessary for service discovery and load balancing.
 In case monitoring is enabled, a trace repository service can be used to collect the monitoring traces centrally.
 1) WebUI: This service provides the user interface, compiling and serving Java Server Pages (JSPs).

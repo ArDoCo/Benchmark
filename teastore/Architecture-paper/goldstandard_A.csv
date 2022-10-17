@@ -1,10 +1,20 @@
-WebUI, Registry, ImageProvider, Auth, Persistence, Recommender
+WebUI: _bC13QDVWEeqPG_FgW3bi6Q
+Registry: _dhM6oDVXEeqPG_FgW3bi6Q
+Persistence: _lnx1oDVWEeqPG_FgW3bi6Q
+Recommender: _m3fxEDVWEeqPG_FgW3bi6Q
+Auth: _AiuxcDVdEeqPG_FgW3bi6Q
+SlopeOneRecommender: _YkXeIDVgEeqPG_FgW3bi6Q
+OrderBasedRecommender: _kgbngDVgEeqPG_FgW3bi6Q
+DummyRecommender: _ouzFYDVgEeqPG_FgW3bi6Q
+PopularityBasedRecommender: _raxjcDVgEeqPG_FgW3bi6Q
+ImageProvider: _yA04AKTKEeqKjI323B3R3w
+PreprocessedSlopeOneRecommender: _iaElgKpwEeqHXcsU55mirw
 
 modelElement,sentence
 Registry,1
 Registry,2
 WebUI,3
-ImageProvider,3,
+ImageProvider,3
 Auth,3
 Persistence,3
 Recommender,3
