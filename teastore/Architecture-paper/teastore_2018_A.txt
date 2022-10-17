@@ -1,4 +1,3 @@
-A. Architecture
 The TeaStore consists of five distinct services and a Registry service as shown in Figure 1.
 All services communicate with the Registry.
 Additionally, the WebUI service issues calls to the Image-Provider, Authentication, Persistence and Recommender services.
