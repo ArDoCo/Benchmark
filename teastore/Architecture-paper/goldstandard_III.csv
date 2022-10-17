@@ -1,18 +1,6 @@
-WebUI: _bC13QDVWEeqPG_FgW3bi6Q
-Registry: _dhM6oDVXEeqPG_FgW3bi6Q
-Persistence: _lnx1oDVWEeqPG_FgW3bi6Q
-Recommender: _m3fxEDVWEeqPG_FgW3bi6Q
-Auth: _AiuxcDVdEeqPG_FgW3bi6Q
-SlopeOneRecommender: _YkXeIDVgEeqPG_FgW3bi6Q
-OrderBasedRecommender: _kgbngDVgEeqPG_FgW3bi6Q
-DummyRecommender: _ouzFYDVgEeqPG_FgW3bi6Q
-PopularityBasedRecommender: _raxjcDVgEeqPG_FgW3bi6Q
-ImageProvider: _yA04AKTKEeqKjI323B3R3w
-PreprocessedSlopeOneRecommender: _iaElgKpwEeqHXcsU55mirw
-
-modelElement,sentence
-ImageProvider,8
-Recommender,10
-Recommender,14
-Persistence,16
-Registry,23
+modelElementID,sentence
+_yA04AKTKEeqKjI323B3R3w,8
+_m3fxEDVWEeqPG_FgW3bi6Q,10
+_m3fxEDVWEeqPG_FgW3bi6Q,14
+_lnx1oDVWEeqPG_FgW3bi6Q,16
+_dhM6oDVXEeqPG_FgW3bi6Q,23
