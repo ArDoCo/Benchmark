@@ -35,7 +35,7 @@ If the action is allowed, it interacts with the Logic component to perform the a
 Seventh, assuming the action was loading a page, the Action gathers the data required for the page into a PageData object, e.g. InstructorHomePageData, creates a ShowPageResult object by enclosing the PageData object created previously, and returns it to the ControllerServlet.
 Eighth, controllerServlet sends the result.
 In the case of a ShowPageResult, this is equivalent to forwarding to the matching JSP page.
-Nineth, the JSP page uses the data in the given PageData object to generate the HTML page.
+Ninth, the JSP page uses the data in the given PageData object to generate the HTML page.
 Tenth, the response will then be sent back to the Browser, which will render the page.
 There are some things to note.
 After performing certain actions, the Browser should load another page, possibly with the status of the previous action.
@@ -52,7 +52,8 @@ Since the high-level workflow of processing a request is same for any request, w
 The list of actions and corresponding URIs are listed in the ActionURIs nested class of the Const class.
 The list of pages and corresponding URIs are listed in the ViewURIs nested class of the Const class.
 The UI consist of product pages (functional), product pages (peripheral), website pages, project pages.
-Product pages (functional), e.g., courses page. These require login.
+Product pages (functional), e.g., courses page.
+These require login.
 Product pages (peripheral), e.g., help pages, error pages, etc.
 Website pages are the static pages of the product website, e.g., contact.html.
 Project pages meant for developers, such as this page.
@@ -100,7 +101,8 @@ Optional attributes follow KeepExistingPolicy.
 Entity not found throws EntityDoesNotExistException exception.
 Invalid parameters throws InvalidParametersException.
 To API for deleting entities the following information are presented.
-Null parameters are not expected. Results in assertion failure.
+Null parameters are not expected.
+Results in assertion failure.
 The following explains the FailDeleteSilentlyPolicy.
 In general, delete operation do not throw exceptions if the target entity does not exist.
 Instead, it logs a warning.
