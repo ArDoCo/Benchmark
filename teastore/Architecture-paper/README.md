@@ -9,3 +9,4 @@ These goldstandards were created separately for https://ieeexplore.ieee.org/docu
 * *_A.{txt|csv} refer to section III. A. Architecture
 * *_B.{txt|csv} refer to section III. B. Services
 * *_AB.{txt|csv} refer to section III. A. Architecture and III. B. Services
+* *_model_2015 refers specifically to the model from 2018. (This is only relevant for the goldstandard of B.Services) 
