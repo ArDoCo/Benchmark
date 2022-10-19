@@ -1,1 +1,0 @@
-Text was extracted from: https://github.com/JabRef/jabref/blob/7c26856a492243a6a8d272dfb4a9054c47018bda/docs/high-level-documentation.md

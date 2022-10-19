@@ -1,13 +1,11 @@
-# Alternative Teammates version
+# Teammates 2021
 
-The text was extracted from https://github.com/TEAMMATES/teammates/blob/afb4b74677f4bf3d1e805fe59ad72a8d71a4ec34/devdocs/design.md
+The text was taken from https://teammates.github.io/teammates/design.html
 
-## Assumptions
-* Since we could not find any architectural model from 2015, we assumed that the model would be the same as our previous, "original" one.
-* Assumed components are: common, ui, logic, storage, test driver, e2e, client, gae datastore.
+## Text Adaptation
 
-## Changes
-* The text was changed accordingly to the previous used version (since both texts are similarly structured and have some overlap) to increase the readability. 
+Since the documentation contains many listings and implicit semantics, we slightly adapted the text.
+Thereby, the text became more readable and easier to understand.
 
 ### Comprehension of changes: 
 * Images were removed
@@ -35,3 +33,8 @@ The text was extracted from https://github.com/TEAMMATES/teammates/blob/afb4b746
 * If it would not lead to a semantic change, colons in sentences were removed. Otherwise there were replaced by "are"/ "is"/ "is that"/ ...
 * In case of "##TestDriver This component [..]", the "This" was replaced with "The TestDriver".
 
+
+## License
+
+The documentation of TEAMMATES is part of their [repository](https://github.com/TEAMMATES/teammates).
+Therefore, the text we extracted from their documentation is licensed according to the [license of TEAMMATES](https://github.com/TEAMMATES/teammates/blob/master/LICENSE) under GPL-2.0.
