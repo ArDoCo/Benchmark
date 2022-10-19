@@ -16,8 +16,6 @@ test driver,13
 client,15
 common,17
 logic,20
-ui,20
-ui,21
 ui,23
 logic,34
 ui,54
@@ -26,16 +24,10 @@ logic,61
 storage,61
 logic,62
 ui,65
-logic,67
-logic,68
-logic,69
 test driver,69
-logic,70
-logic,71
 logic,72
 logic,73
 ui,73
-logic,74
 ui,74
 ui,75
 test driver,77
@@ -43,16 +35,11 @@ ui,81
 logic,81
 storage,87
 storage,113
-storage,114
-storage,115
-storage,116
-storage,117
 gae datastore,117
 storage,118
 gae datastore,121
 logic,121
 storage,122
-storage,123
 gae datastore,124
 common,126
 storage,129
@@ -60,22 +47,11 @@ logic,130
 gae datastore,133
 gae datastore,136
 common,152
-common,153
-common,154
-common,155
-common,156
-common,158
 test driver,161
 test driver,167
-test driver,168
 test driver,169
-test driver,170
-test driver,171
 ui,174
 common,175
 logic,176
 storage, 177
 client,182
-client,183
-client,184
-client,185
