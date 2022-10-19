@@ -10,18 +10,13 @@ UI,4
 UI,5
 UI,7
 Logic,7
-Logic,8
 GAE Datastore,9
 Storage,9
 Test Driver,10
 E2E,15
 Client,18
 Common,20
-Logic,22
-UI,22
-UI,23
 UI,25
-UI,26
 UI,29
 Logic,47
 Logic,68
@@ -30,7 +25,6 @@ Logic,78
 UI,81
 UI,85
 Logic,87
-Logic,88
 Storage,88
 UI,97
 Logic,97
@@ -47,11 +41,6 @@ GAE Datastore,137
 GAE Datastore,138
 GAE Datastore,141
 Common,155
-Common,156
-Common,157
-Common,158
-Common,159
-Common,160
 Test Driver,163
 Common,174
 Common,175

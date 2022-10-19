@@ -15,7 +15,6 @@ gae datastore,9
 test driver,13
 client,15
 common,17
-logic,20
 ui,23
 logic,34
 ui,54
