@@ -9,42 +9,34 @@ HTML5 Client,4
 HTML5 Client,5
 HTML5 Client,6
 HTML5 Client,8
-HTML5 Client,16
-WebRTC-SFU,18
 FreeSWITCH,18
-HTML5 Server,20
 Presentation Conversion,21
-HTML5 Client,22
 Redis PubSub,25
 Redis PubSub,26
 Redis DB,27
-HTML5 Client
 Redis DB,28
-Recording Client,29
+Recording Service,29
 Apps,30
+HTML5 Server,31
 HTML5 Client,31
 Apps,32
 FreeSWITCH,36
 FreeSWITCH,37
-WebRTC-SFU,39
 FreeSWITCH,40
 Apps,41
 Apps,42
 Apps,44
 Apps,45
-HTML5 Client,46
 Redis PubSub,47
+FreeSWITCH,48
 Redis DB,49
 WebRTC-SFU,54
 WebRTC-SFU,56
 WebRTC-SFU,57
 FreeSWITCH,58
-HTML5 Client,60
 Redis PubSub,65
 HTML5 Client,66
 HTML5 Client,67
 FreeSWITCH,69
-HTML5 Client,70
+Apps,70
 HTML5 Client,71
-
-
