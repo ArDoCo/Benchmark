@@ -1,6 +1,6 @@
 # BigBlueButton 2021
 
-The text was taken from https://docs.bigbluebutton.org/2.4/architecture.html
+The text was taken from [https://docs.bigbluebutton.org/2.4/architecture.html (Wayback Machine)](http://web.archive.org/web/20230315102607/https://docs.bigbluebutton.org/2.4/architecture.html)
 
 
 ## Text Adaptation
