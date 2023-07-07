@@ -6,13 +6,16 @@ This repository contains a benchmark for traceability link recovery (TLR) betwee
 Each project of the benchmark is structured as follows:
 
 * The README of each project contains some information about the used languages and lines of code created with [cloc](https://github.com/AlDanial/cloc).
-* The folder `model_<year>` contains the a model of the project. 
+* The folder `model_<year>` contains the architecture model of the project. 
 	* The folder `pcm` contains a Palladio Component Model (PCM) of the system. It has at least the repository view (components) of the system.
 	* The folder `uml` contains a Papyrus UML model. It is created from the PCM Repository using [PCM2UML](https://github.com/InFormALin/PCM2UML).
+	* Additionally, the folder `code` can contain a code model. The version of the code is stated in a README.md next to the model. The model is an `ArDoCo Code Model`. The model can be loaded using the [ArDoCo Code Extractor](https://github.com/ArDoCo/Core/blob/main/stages/model-provider/src/main/java/edu/kit/kastel/mcse/ardoco/core/models/connectors/generators/code/CodeExtractor.java#L47).
+	* The file `goldstandard_sam-code.csv` is a gold standard for mapping the architecture elements and code elements.
 * The folder `text_<year>` contains a documentation of the project.
 	* The text file(s) in the project folder contains the SAD of the projects as plain text.
 	* The file `goldstandard.csv` contains the traceability links between SAD and SAM. It links the model elements by id with the sentences by their number (index starting at 1).
 	* The file `goldstandard_UME.csv` contains all IDs of model elements that are contained in the model but not described in the text.
+	* The file `goldstandard_code.csv` contains the traceability links between SAD and code models.
 
 ## Using the benchmark
 In order to provide an easy approach to use the benchmark, we provide an example TLR approach called [Simple Tracelink Discovery (STD)](https://github.com/ArDoCo/SimpleTracelinkDiscovery/) that uses this benchmark in its [evaluation](https://github.com/ArDoCo/SimpleTracelinkDiscovery/tree/main/src/test/java/io/github/ardoco/simpletracelinkdiscovery/eval).
