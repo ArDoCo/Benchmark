@@ -1,8 +1,8 @@
 ae_id,ae_name,ce_ids
-_0e5u8FkHEeyewPSmlgszyA,Component: HTML5 Client,build/packages-template/bbb-html5
+_0e5u8FkHEeyewPSmlgszyA,Component: HTML5 Client,build/packages-template/bbb-html5/
 _0e5u8FkHEeyewPSmlgszyA,Component: HTML5 Client,bigbluebutton-html5/
 _2BgxMFkHEeyewPSmlgszyA,Component: Presentation Conversion,bbb-common-web/src/main/java/org/bigbluebutton/presentation/
-_2I1EsFkIEeyewPSmlgszyA,Interface: HTML5 Client,build/packages-template/bbb-html5
+_2I1EsFkIEeyewPSmlgszyA,Interface: HTML5 Client,build/packages-template/bbb-html5/
 _2I1EsFkIEeyewPSmlgszyA,Interface: HTML5 Client,bigbluebutton-html5/
 _4yx-8FkHEeyewPSmlgszyA,Component: BBB web,bigbluebutton-web/
 _4yx-8FkHEeyewPSmlgszyA,Component: BBB web,bbb-common-web/src/main/java/org/bigbluebutton/web/
@@ -59,7 +59,7 @@ _s0aIcFkHEeyewPSmlgszyA,Component: WebRTC-SFU,build/packages-template/bbb-webrtc
 _s0aIcFkHEeyewPSmlgszyA,Component: WebRTC-SFU,bbb-webrtc-sfu.placeholder.sh
 _ur280FkIEeyewPSmlgszyA,Interface: WebRTC-SFU,build/packages-template/bbb-webrtc-sfu/
 _ur280FkIEeyewPSmlgszyA,Interface: WebRTC-SFU,bbb-webrtc-sfu.placeholder.sh
-_xqkJoFkIEeyewPSmlgszyA,Interface: HTML5 Server,build/packages-template/bbb-html5
+_xqkJoFkIEeyewPSmlgszyA,Interface: HTML5 Server,build/packages-template/bbb-html5/
 _xqkJoFkIEeyewPSmlgszyA,Interface: HTML5 Server,bigbluebutton-html5/
-_yGgUMFkHEeyewPSmlgszyA,Component: HTML5 Server,build/packages-template/bbb-html5
+_yGgUMFkHEeyewPSmlgszyA,Component: HTML5 Server,build/packages-template/bbb-html5/
 _yGgUMFkHEeyewPSmlgszyA,Component: HTML5 Server,bigbluebutton-html5/
