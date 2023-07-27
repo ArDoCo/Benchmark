@@ -2,6 +2,7 @@
 
 # Benchmark
 This repository contains a benchmark for traceability link recovery (TLR) between textual Software Architecture Documentation (SAD) and Software Architecture Models (SAM).
+It was initially published in the paper [Establishing a Benchmark Dataset for Traceability Link Recovery Between Software Architecture Documentation and Models](https://doi.org/10.1007/978-3-031-36889-9_30).
 
 Each project of the benchmark is structured as follows:
 
@@ -46,5 +47,5 @@ JabRef is a tool to manage citations and references in your bibliographies. It h
 ## LICENSE
 > **Note**
 >
-> Our LICENSE does only apply to the PCM models and the Gold Standards (CSV files). The texts are licensed w.r.t. to the actual projects.
+> Our LICENSE does only apply to the models and the Gold Standards (CSV files). The texts are licensed w.r.t. to the actual projects.
 > More details about the LICENSE can be found in the README files of the respective texts.
