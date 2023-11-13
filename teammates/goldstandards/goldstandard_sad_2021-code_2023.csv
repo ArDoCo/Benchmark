@@ -63,7 +63,6 @@ sentenceID,codeID
 68,src/main/java/teammates/logic/
 68,src/test/java/teammates/logic/
 75,src/main/java/teammates/common/util/Const.java
-75,src/main/java/teammates/common/util/Const.java
 76,src/main/java/teammates/ui/webapi/Action.java
 76,src/test/java/teammates/ui/webapi/BaseActionTest.java
 77,src/main/java/teammates/logic/
@@ -197,9 +196,7 @@ sentenceID,codeID
 175,src/test/java/teammates/common/util/
 176,src/main/java/teammates/logic/
 176,src/test/java/teammates/logic/
-176,src/test/java/teammates/logic/
 177,src/main/java/teammates/storage/
-177,src/test/java/teammates/storage/
 177,src/test/java/teammates/storage/
 178,src/test/java/teammates/storage/search/
 179,src/test/java/teammates/ui/webapi/
