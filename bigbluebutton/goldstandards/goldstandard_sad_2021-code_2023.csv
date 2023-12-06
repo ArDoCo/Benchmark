@@ -4,8 +4,6 @@ sentenceID,codeID
 5,bigbluebutton-html5/
 5,build/packages-template/bbb-html5/
 6,bigbluebutton-html5/
-6,bigbluebutton-html5/
-6,build/packages-template/bbb-html5/
 6,build/packages-template/bbb-html5/
 8,bigbluebutton-html5/
 8,build/packages-template/bbb-html5/
@@ -16,12 +14,8 @@ sentenceID,codeID
 11,bigbluebutton-html5/
 11,build/packages-template/bbb-html5/
 12,bigbluebutton-html5/
-12,bigbluebutton-html5/
-12,build/packages-template/bbb-html5/
 12,build/packages-template/bbb-html5/
 13,bigbluebutton-html5/
-13,bigbluebutton-html5/
-13,build/packages-template/bbb-html5/
 13,build/packages-template/bbb-html5/
 14,bigbluebutton-html5/
 14,build/packages-template/bbb-html5/
@@ -113,8 +107,6 @@ sentenceID,codeID
 70,freeswitch.placeholder.sh
 71,bbb-webrtc-sfu.placeholder.sh
 71,bigbluebutton-html5/
-71,bigbluebutton-html5/
-71,build/packages-template/bbb-html5/
 71,build/packages-template/bbb-html5/
 71,build/packages-template/bbb-webrtc-sfu/
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/
