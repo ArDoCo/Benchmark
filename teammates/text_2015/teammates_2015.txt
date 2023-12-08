@@ -169,7 +169,7 @@ Package overview contains test.driver, test.pageobjects, test.cases, and subpack
 test.driver contains infrastructure need for running the test driver.
 test.pageobjects contains abstractions of the pages as the appear on a Browser (i.e. SUTs).
 test.cases contains test cases.
-Sub packages contains x.cases.testdriver, x.cases.browsertests, x.cases.common, x.cases.logic, x.cases.storage.
+Sub packages contains x.cases.testdriver, x.cases.browsertests, x.cases.common, x.cases.logic, x.cases.storage
 x.cases.driver contains component test cases for testing test driver infrastructure.
 x.cases.browsertests contains system test cases for testing the UI.
 x.cases.common contains component test cases for testing the Common component.

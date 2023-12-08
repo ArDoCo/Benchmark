@@ -7,7 +7,6 @@ The text was taken from [https://docs.bigbluebutton.org/2.4/architecture.html (W
 
 * Images were removed
 * Captions were kept. A finalizing dot were added.
-* Use bigbluebutton_1SentPerLine as a reference for the sentence numbers when creating a goldstandard.
 
 ## License
 The [documentation of BBB](https://docs.bigbluebutton.org/2.4/architecture.html) is licensed under LGPL.
