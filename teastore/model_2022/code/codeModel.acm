@@ -95,8 +95,10 @@
         "id" : "acm001352jsd",
         "name" : "Category",
         "compilationUnitId" : "acm001337jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd" ],
         "content" : [ "acm001342jsd", "acm001343jsd", "acm001344jsd", "acm001345jsd", "acm001346jsd", "acm001347jsd", "acm001348jsd", "acm001349jsd", "acm001350jsd", "acm001351jsd" ]
       },
       "acm001353jsd" : {
@@ -202,8 +204,10 @@
         "id" : "acm001370jsd",
         "name" : "ImageSize",
         "compilationUnitId" : "acm001353jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd" ],
         "content" : [ "acm001358jsd", "acm001359jsd", "acm001360jsd", "acm001361jsd", "acm001362jsd", "acm001363jsd", "acm001364jsd", "acm001365jsd", "acm001366jsd", "acm001367jsd", "acm001368jsd", "acm001369jsd" ]
       },
       "acm001371jsd" : {
@@ -259,8 +263,10 @@
         "id" : "acm001378jsd",
         "name" : "ImageSizePreset",
         "compilationUnitId" : "acm001371jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd" ],
         "content" : [ "acm001376jsd", "acm001377jsd" ]
       },
       "acm001379jsd" : {
@@ -426,8 +432,10 @@
         "id" : "acm001408jsd",
         "name" : "Order",
         "compilationUnitId" : "acm001379jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd" ],
         "content" : [ "acm001384jsd", "acm001385jsd", "acm001386jsd", "acm001387jsd", "acm001388jsd", "acm001389jsd", "acm001390jsd", "acm001391jsd", "acm001392jsd", "acm001393jsd", "acm001394jsd", "acm001395jsd", "acm001396jsd", "acm001397jsd", "acm001398jsd", "acm001399jsd", "acm001400jsd", "acm001401jsd", "acm001402jsd", "acm001403jsd", "acm001404jsd", "acm001405jsd", "acm001406jsd", "acm001407jsd" ]
       },
       "acm001409jsd" : {
@@ -543,8 +551,10 @@
         "id" : "acm001428jsd",
         "name" : "OrderItem",
         "compilationUnitId" : "acm001409jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd" ],
         "content" : [ "acm001414jsd", "acm001415jsd", "acm001416jsd", "acm001417jsd", "acm001418jsd", "acm001419jsd", "acm001420jsd", "acm001421jsd", "acm001422jsd", "acm001423jsd", "acm001424jsd", "acm001425jsd", "acm001426jsd", "acm001427jsd" ]
       },
       "acm001429jsd" : {
@@ -660,8 +670,10 @@
         "id" : "acm001448jsd",
         "name" : "Product",
         "compilationUnitId" : "acm001429jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001448jsd" ],
         "content" : [ "acm001434jsd", "acm001435jsd", "acm001436jsd", "acm001437jsd", "acm001438jsd", "acm001439jsd", "acm001440jsd", "acm001441jsd", "acm001442jsd", "acm001443jsd", "acm001444jsd", "acm001445jsd", "acm001446jsd", "acm001447jsd" ]
       },
       "acm001449jsd" : {
@@ -777,8 +789,10 @@
         "id" : "acm001468jsd",
         "name" : "User",
         "compilationUnitId" : "acm001449jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001468jsd" ],
         "content" : [ "acm001454jsd", "acm001455jsd", "acm001456jsd", "acm001457jsd", "acm001458jsd", "acm001459jsd", "acm001460jsd", "acm001461jsd", "acm001462jsd", "acm001463jsd", "acm001464jsd", "acm001465jsd", "acm001466jsd", "acm001467jsd" ]
       },
       "acm001469jsd" : {
@@ -896,8 +910,10 @@
         "id" : "acm001488jsd",
         "name" : "SessionBlob",
         "compilationUnitId" : "acm001469jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd" ],
         "content" : [ "acm001475jsd", "acm001476jsd", "acm001477jsd", "acm001478jsd", "acm001479jsd", "acm001480jsd", "acm001481jsd", "acm001482jsd", "acm001483jsd", "acm001484jsd", "acm001485jsd", "acm001486jsd", "acm001487jsd" ]
       },
       "acm001489jsd" : {
@@ -943,8 +959,10 @@
         "id" : "acm001494jsd",
         "name" : "InterfaceTests",
         "compilationUnitId" : "acm001489jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001495jsd" : {
@@ -1012,8 +1030,10 @@
         "id" : "acm001504jsd",
         "name" : "AuthCartRest",
         "compilationUnitId" : "acm001495jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd", "acm001448jsd", "acm001488jsd", "acm001586jsd", "acm003849jsd", "acm003879jsd" ],
         "content" : [ "acm001501jsd", "acm001502jsd", "acm001503jsd" ]
       },
       "acm001505jsd" : {
@@ -1086,8 +1106,10 @@
         "id" : "acm001515jsd",
         "name" : "AuthUserActionsRest",
         "compilationUnitId" : "acm001505jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd", "acm001468jsd", "acm001488jsd", "acm001574jsd", "acm001586jsd", "acm003641jsd", "acm003849jsd", "acm003879jsd" ],
         "content" : [ "acm001511jsd", "acm001512jsd", "acm001513jsd", "acm001514jsd" ]
       },
       "acm001516jsd" : {
@@ -1145,8 +1167,10 @@
         "id" : "acm001523jsd",
         "name" : "ReadyRest",
         "compilationUnitId" : "acm001516jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001522jsd" ]
       },
       "acm001524jsd" : {
@@ -1209,8 +1233,10 @@
         "id" : "acm001532jsd",
         "name" : "BCryptProvider",
         "compilationUnitId" : "acm001524jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001530jsd", "acm001531jsd" ]
       },
       "acm001533jsd" : {
@@ -1268,8 +1294,10 @@
         "id" : "acm001540jsd",
         "name" : "ConstantKeyProvider",
         "compilationUnitId" : "acm001533jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001548jsd" ],
+        "datatypeReferencesIds" : [ "acm001488jsd" ],
         "content" : [ "acm001539jsd" ]
       },
       "acm001541jsd" : {
@@ -1327,8 +1355,10 @@
         "id" : "acm001548jsd",
         "name" : "IKeyProvider",
         "compilationUnitId" : "acm001541jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001488jsd" ],
         "content" : [ "acm001547jsd" ]
       },
       "acm001549jsd" : {
@@ -1396,8 +1426,10 @@
         "id" : "acm001558jsd",
         "name" : "ISecurityProvider",
         "compilationUnitId" : "acm001549jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001488jsd", "acm001548jsd" ],
         "content" : [ "acm001555jsd", "acm001556jsd", "acm001557jsd" ]
       },
       "acm001559jsd" : {
@@ -1455,8 +1487,10 @@
         "id" : "acm001566jsd",
         "name" : "ISessionIdGenerator",
         "compilationUnitId" : "acm001559jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001565jsd" ]
       },
       "acm001567jsd" : {
@@ -1514,8 +1548,10 @@
         "id" : "acm001574jsd",
         "name" : "RandomSessionIdGenerator",
         "compilationUnitId" : "acm001567jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001566jsd" ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001573jsd" ]
       },
       "acm001575jsd" : {
@@ -1593,8 +1629,10 @@
         "id" : "acm001586jsd",
         "name" : "ShaSecurityProvider",
         "compilationUnitId" : "acm001575jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001558jsd" ],
+        "datatypeReferencesIds" : [ "acm001488jsd", "acm001540jsd", "acm001548jsd" ],
         "content" : [ "acm001581jsd", "acm001582jsd", "acm001583jsd", "acm001584jsd", "acm001585jsd" ]
       },
       "acm001587jsd" : {
@@ -1662,8 +1700,10 @@
         "id" : "acm001596jsd",
         "name" : "AuthStartup",
         "compilationUnitId" : "acm001587jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001593jsd", "acm001594jsd", "acm001595jsd" ]
       },
       "acm001597jsd" : {
@@ -1721,8 +1761,10 @@
         "id" : "acm001604jsd",
         "name" : "ConstantKeyProviderTest",
         "compilationUnitId" : "acm001597jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001488jsd", "acm001540jsd" ],
         "content" : [ "acm001603jsd" ]
       },
       "acm001605jsd" : {
@@ -1780,8 +1822,10 @@
         "id" : "acm001612jsd",
         "name" : "ShaSecurityProviderTest",
         "compilationUnitId" : "acm001605jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001488jsd", "acm001586jsd" ],
         "content" : [ "acm001611jsd" ]
       },
       "acm001613jsd" : {
@@ -1907,8 +1951,10 @@
         "id" : "acm001634jsd",
         "name" : "ImageDB",
         "compilationUnitId" : "acm001613jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001634jsd", "acm001645jsd" ],
         "content" : [ "acm001618jsd", "acm001619jsd", "acm001620jsd", "acm001621jsd", "acm001622jsd", "acm001623jsd", "acm001624jsd", "acm001625jsd", "acm001626jsd", "acm001627jsd", "acm001628jsd", "acm001629jsd", "acm001630jsd", "acm001631jsd", "acm001632jsd", "acm001633jsd" ]
       },
       "acm001635jsd" : {
@@ -1979,8 +2025,10 @@
         "id" : "acm001645jsd",
         "name" : "ImageDBKey",
         "compilationUnitId" : "acm001635jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001640jsd", "acm001641jsd", "acm001642jsd", "acm001643jsd", "acm001644jsd" ]
       },
       "acm001646jsd" : {
@@ -2061,8 +2109,10 @@
         "id" : "acm001658jsd",
         "name" : "ImageProvider",
         "compilationUnitId" : "acm001646jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001634jsd", "acm001645jsd", "acm001658jsd", "acm001690jsd", "acm002081jsd" ],
         "content" : [ "acm001651jsd", "acm001652jsd", "acm001653jsd", "acm001654jsd", "acm001655jsd", "acm001656jsd", "acm001657jsd" ]
       },
       "acm001659jsd" : {
@@ -2138,8 +2188,10 @@
         "id" : "acm001670jsd",
         "name" : "ImageScaler",
         "compilationUnitId" : "acm001659jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001670jsd" ],
         "content" : [ "acm001664jsd", "acm001665jsd", "acm001666jsd", "acm001667jsd", "acm001668jsd", "acm001669jsd" ]
       },
       "acm001671jsd" : {
@@ -2255,8 +2307,10 @@
         "id" : "acm001690jsd",
         "name" : "StoreImage",
         "compilationUnitId" : "acm001671jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001871jsd" ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001690jsd" ],
         "content" : [ "acm001676jsd", "acm001677jsd", "acm001678jsd", "acm001679jsd", "acm001680jsd", "acm001681jsd", "acm001682jsd", "acm001683jsd", "acm001684jsd", "acm001685jsd", "acm001686jsd", "acm001687jsd", "acm001688jsd", "acm001689jsd" ]
       },
       "acm001691jsd" : {
@@ -2439,8 +2493,10 @@
         "id" : "acm001723jsd",
         "name" : "AbstractCache",
         "compilationUnitId" : "acm001691jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001773jsd" ],
+        "datatypeReferencesIds" : [ "acm001723jsd", "acm001871jsd", "acm001881jsd", "acm002081jsd", "acm002093jsd" ],
         "content" : [ "acm001697jsd", "acm001698jsd", "acm001699jsd", "acm001700jsd", "acm001701jsd", "acm001702jsd", "acm001703jsd", "acm001704jsd", "acm001705jsd", "acm001706jsd", "acm001707jsd", "acm001708jsd", "acm001709jsd", "acm001710jsd", "acm001711jsd", "acm001712jsd", "acm001713jsd", "acm001714jsd", "acm001715jsd", "acm001716jsd", "acm001717jsd", "acm001718jsd", "acm001719jsd", "acm001720jsd", "acm001721jsd", "acm001722jsd" ]
       },
       "acm001724jsd" : {
@@ -2508,8 +2564,10 @@
         "id" : "acm001733jsd",
         "name" : "AbstractQueueCache",
         "compilationUnitId" : "acm001724jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001891jsd", "acm002081jsd" ],
         "content" : [ "acm001730jsd", "acm001731jsd", "acm001732jsd" ]
       },
       "acm001734jsd" : {
@@ -2582,8 +2640,10 @@
         "id" : "acm001744jsd",
         "name" : "AbstractTreeCache",
         "compilationUnitId" : "acm001734jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001881jsd", "acm002081jsd" ],
         "content" : [ "acm001740jsd", "acm001741jsd", "acm001742jsd", "acm001743jsd" ]
       },
       "acm001745jsd" : {
@@ -2661,8 +2721,10 @@
         "id" : "acm001756jsd",
         "name" : "FirstInFirstOut",
         "compilationUnitId" : "acm001745jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001733jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001911jsd", "acm002081jsd" ],
         "content" : [ "acm001751jsd", "acm001752jsd", "acm001753jsd", "acm001754jsd", "acm001755jsd" ]
       },
       "acm001757jsd" : {
@@ -2765,8 +2827,10 @@
         "id" : "acm001773jsd",
         "name" : "IDataCache",
         "compilationUnitId" : "acm001757jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002081jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm001763jsd", "acm001764jsd", "acm001765jsd", "acm001766jsd", "acm001767jsd", "acm001768jsd", "acm001769jsd", "acm001770jsd", "acm001771jsd", "acm001772jsd" ]
       },
       "acm001774jsd" : {
@@ -2844,8 +2908,10 @@
         "id" : "acm001785jsd",
         "name" : "LastInFirstOut",
         "compilationUnitId" : "acm001774jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001733jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001911jsd", "acm002081jsd" ],
         "content" : [ "acm001780jsd", "acm001781jsd", "acm001782jsd", "acm001783jsd", "acm001784jsd" ]
       },
       "acm001786jsd" : {
@@ -2923,8 +2989,10 @@
         "id" : "acm001797jsd",
         "name" : "LeastFrequentlyUsed",
         "compilationUnitId" : "acm001786jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001744jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001861jsd", "acm001871jsd", "acm001911jsd", "acm002081jsd" ],
         "content" : [ "acm001792jsd", "acm001793jsd", "acm001794jsd", "acm001795jsd", "acm001796jsd" ]
       },
       "acm001798jsd" : {
@@ -3002,8 +3070,10 @@
         "id" : "acm001809jsd",
         "name" : "LeastRecentlyUsed",
         "compilationUnitId" : "acm001798jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001744jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001902jsd", "acm001911jsd", "acm002081jsd" ],
         "content" : [ "acm001804jsd", "acm001805jsd", "acm001806jsd", "acm001807jsd", "acm001808jsd" ]
       },
       "acm001810jsd" : {
@@ -3081,8 +3151,10 @@
         "id" : "acm001821jsd",
         "name" : "MostRecentlyUsed",
         "compilationUnitId" : "acm001810jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001744jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001902jsd", "acm001911jsd", "acm002081jsd" ],
         "content" : [ "acm001816jsd", "acm001817jsd", "acm001818jsd", "acm001819jsd", "acm001820jsd" ]
       },
       "acm001822jsd" : {
@@ -3170,8 +3242,10 @@
         "id" : "acm001835jsd",
         "name" : "RandomReplacement",
         "compilationUnitId" : "acm001822jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001733jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd", "acm001911jsd", "acm002081jsd" ],
         "content" : [ "acm001828jsd", "acm001829jsd", "acm001830jsd", "acm001831jsd", "acm001832jsd", "acm001833jsd", "acm001834jsd" ]
       },
       "acm001836jsd" : {
@@ -3266,8 +3340,10 @@
         "id" : "acm001850jsd",
         "name" : "AbstractEntry",
         "compilationUnitId" : "acm001836jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001881jsd" ],
+        "datatypeReferencesIds" : [ "acm001850jsd", "acm001871jsd" ],
         "content" : [ "acm001843jsd", "acm001844jsd", "acm001845jsd", "acm001846jsd", "acm001847jsd", "acm001848jsd", "acm001849jsd" ]
       },
       "acm001851jsd" : {
@@ -3342,8 +3418,10 @@
         "id" : "acm001861jsd",
         "name" : "CountedEntry",
         "compilationUnitId" : "acm001851jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001850jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm001858jsd", "acm001859jsd", "acm001860jsd" ]
       },
       "acm001862jsd" : {
@@ -3413,8 +3491,10 @@
         "id" : "acm001871jsd",
         "name" : "ICachable",
         "compilationUnitId" : "acm001862jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001869jsd", "acm001870jsd" ]
       },
       "acm001872jsd" : {
@@ -3484,8 +3564,10 @@
         "id" : "acm001881jsd",
         "name" : "ICacheEntry",
         "compilationUnitId" : "acm001872jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001871jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm001879jsd", "acm001880jsd" ]
       },
       "acm001882jsd" : {
@@ -3555,8 +3637,10 @@
         "id" : "acm001891jsd",
         "name" : "SimpleEntry",
         "compilationUnitId" : "acm001882jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001850jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm001889jsd", "acm001890jsd" ]
       },
       "acm001892jsd" : {
@@ -3631,8 +3715,10 @@
         "id" : "acm001902jsd",
         "name" : "TimedEntry",
         "compilationUnitId" : "acm001892jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001850jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm001899jsd", "acm001900jsd", "acm001901jsd" ]
       },
       "acm001903jsd" : {
@@ -3697,8 +3783,10 @@
         "id" : "acm001911jsd",
         "name" : "CacheAll",
         "compilationUnitId" : "acm001903jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm001910jsd" ]
       },
       "acm001912jsd" : {
@@ -3781,8 +3869,10 @@
         "id" : "acm001924jsd",
         "name" : "ImageProviderEndpoint",
         "compilationUnitId" : "acm001912jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001918jsd", "acm001919jsd", "acm001920jsd", "acm001921jsd", "acm001922jsd", "acm001923jsd" ]
       },
       "acm001925jsd" : {
@@ -3850,8 +3940,10 @@
         "id" : "acm001934jsd",
         "name" : "CachingMode",
         "compilationUnitId" : "acm001925jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001934jsd" ],
         "content" : [ "acm001931jsd", "acm001932jsd", "acm001933jsd" ]
       },
       "acm001935jsd" : {
@@ -3919,8 +4011,10 @@
         "id" : "acm001944jsd",
         "name" : "CachingRule",
         "compilationUnitId" : "acm001935jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001944jsd" ],
         "content" : [ "acm001941jsd", "acm001942jsd", "acm001943jsd" ]
       },
       "acm001945jsd" : {
@@ -3983,8 +4077,10 @@
         "id" : "acm001953jsd",
         "name" : "CreatorFactory",
         "compilationUnitId" : "acm001945jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001370jsd", "acm001634jsd", "acm001953jsd", "acm001962jsd" ],
         "content" : [ "acm001951jsd", "acm001952jsd" ]
       },
       "acm001954jsd" : {
@@ -4047,8 +4143,10 @@
         "id" : "acm001962jsd",
         "name" : "CreatorRunner",
         "compilationUnitId" : "acm001954jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001634jsd", "acm001962jsd" ],
         "content" : [ "acm001960jsd", "acm001961jsd" ]
       },
       "acm001963jsd" : {
@@ -4141,8 +4239,10 @@
         "id" : "acm001977jsd",
         "name" : "ImageCreator",
         "compilationUnitId" : "acm001963jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd" ],
         "content" : [ "acm001969jsd", "acm001970jsd", "acm001971jsd", "acm001972jsd", "acm001973jsd", "acm001974jsd", "acm001975jsd", "acm001976jsd" ]
       },
       "acm001978jsd" : {
@@ -4210,8 +4310,10 @@
         "id" : "acm001987jsd",
         "name" : "ImageIDFactory",
         "compilationUnitId" : "acm001978jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001984jsd", "acm001985jsd", "acm001986jsd" ]
       },
       "acm001988jsd" : {
@@ -4284,8 +4386,10 @@
         "id" : "acm001998jsd",
         "name" : "ImageProviderStartup",
         "compilationUnitId" : "acm001988jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003612jsd" ],
         "content" : [ "acm001994jsd", "acm001995jsd", "acm001996jsd", "acm001997jsd" ]
       },
       "acm001999jsd" : {
@@ -4338,8 +4442,10 @@
         "id" : "acm002005jsd",
         "name" : "SetupControllerConstants",
         "compilationUnitId" : "acm001999jsd",
+        "parentDatatypeId" : "acm002034jsd",
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002006jsd" : {
@@ -4487,8 +4593,10 @@
         "id" : "acm002034jsd",
         "name" : "SetupController",
         "compilationUnitId" : "acm001999jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001370jsd", "acm001448jsd", "acm001634jsd", "acm001690jsd", "acm001756jsd", "acm001773jsd", "acm001785jsd", "acm001797jsd", "acm001809jsd", "acm001821jsd", "acm001835jsd", "acm001911jsd", "acm001934jsd", "acm001944jsd", "acm001953jsd", "acm002034jsd", "acm002044jsd", "acm002054jsd", "acm002069jsd", "acm002081jsd", "acm002102jsd", "acm002111jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm002006jsd", "acm002007jsd", "acm002008jsd", "acm002009jsd", "acm002010jsd", "acm002011jsd", "acm002012jsd", "acm002013jsd", "acm002014jsd", "acm002015jsd", "acm002016jsd", "acm002017jsd", "acm002018jsd", "acm002019jsd", "acm002020jsd", "acm002021jsd", "acm002022jsd", "acm002023jsd", "acm002024jsd", "acm002025jsd", "acm002026jsd", "acm002027jsd", "acm002028jsd", "acm002029jsd", "acm002030jsd", "acm002031jsd", "acm002032jsd", "acm002033jsd" ]
       },
       "acm002035jsd" : {
@@ -4556,8 +4664,10 @@
         "id" : "acm002044jsd",
         "name" : "StorageMode",
         "compilationUnitId" : "acm002035jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002044jsd" ],
         "content" : [ "acm002041jsd", "acm002042jsd", "acm002043jsd" ]
       },
       "acm002045jsd" : {
@@ -4625,8 +4735,10 @@
         "id" : "acm002054jsd",
         "name" : "StorageRule",
         "compilationUnitId" : "acm002045jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002054jsd" ],
         "content" : [ "acm002051jsd", "acm002052jsd", "acm002053jsd" ]
       },
       "acm002055jsd" : {
@@ -4719,8 +4831,10 @@
         "id" : "acm002069jsd",
         "name" : "DriveStorage",
         "compilationUnitId" : "acm002055jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm002081jsd" ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001634jsd", "acm001690jsd", "acm002069jsd" ],
         "content" : [ "acm002061jsd", "acm002062jsd", "acm002063jsd", "acm002064jsd", "acm002065jsd", "acm002066jsd", "acm002067jsd", "acm002068jsd" ]
       },
       "acm002070jsd" : {
@@ -4798,8 +4912,10 @@
         "id" : "acm002081jsd",
         "name" : "IDataStorage",
         "compilationUnitId" : "acm002070jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm002076jsd", "acm002077jsd", "acm002078jsd", "acm002079jsd", "acm002080jsd" ]
       },
       "acm002082jsd" : {
@@ -4877,8 +4993,10 @@
         "id" : "acm002093jsd",
         "name" : "NoStorage",
         "compilationUnitId" : "acm002082jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm002081jsd" ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm002088jsd", "acm002089jsd", "acm002090jsd", "acm002091jsd", "acm002092jsd" ]
       },
       "acm002094jsd" : {
@@ -4943,8 +5061,10 @@
         "id" : "acm002102jsd",
         "name" : "StoreAll",
         "compilationUnitId" : "acm002094jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001871jsd" ],
         "content" : [ "acm002101jsd" ]
       },
       "acm002103jsd" : {
@@ -5009,8 +5129,10 @@
         "id" : "acm002111jsd",
         "name" : "StoreLargeImages",
         "compilationUnitId" : "acm002103jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd" ],
         "content" : [ "acm002110jsd" ]
       },
       "acm002112jsd" : {
@@ -5121,8 +5243,10 @@
         "id" : "acm002130jsd",
         "name" : "TestImageDB",
         "compilationUnitId" : "acm002112jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001634jsd", "acm001645jsd" ],
         "content" : [ "acm002117jsd", "acm002118jsd", "acm002119jsd", "acm002120jsd", "acm002121jsd", "acm002122jsd", "acm002123jsd", "acm002124jsd", "acm002125jsd", "acm002126jsd", "acm002127jsd", "acm002128jsd", "acm002129jsd" ]
       },
       "acm002131jsd" : {
@@ -5188,8 +5312,10 @@
         "id" : "acm002140jsd",
         "name" : "TestImageDBKey",
         "compilationUnitId" : "acm002131jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001645jsd" ],
         "content" : [ "acm002136jsd", "acm002137jsd", "acm002138jsd", "acm002139jsd" ]
       },
       "acm002141jsd" : {
@@ -5235,8 +5361,10 @@
         "id" : "acm002146jsd",
         "name" : "TestImageProvider",
         "compilationUnitId" : "acm002141jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002147jsd" : {
@@ -5352,8 +5480,10 @@
         "id" : "acm002166jsd",
         "name" : "TestImageScaler",
         "compilationUnitId" : "acm002147jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd" ],
         "content" : [ "acm002152jsd", "acm002153jsd", "acm002154jsd", "acm002155jsd", "acm002156jsd", "acm002157jsd", "acm002158jsd", "acm002159jsd", "acm002160jsd", "acm002161jsd", "acm002162jsd", "acm002163jsd", "acm002164jsd", "acm002165jsd" ]
       },
       "acm002167jsd" : {
@@ -5484,8 +5614,10 @@
         "id" : "acm002189jsd",
         "name" : "TestStoreImage",
         "compilationUnitId" : "acm002167jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd" ],
         "content" : [ "acm002172jsd", "acm002173jsd", "acm002174jsd", "acm002175jsd", "acm002176jsd", "acm002177jsd", "acm002178jsd", "acm002179jsd", "acm002180jsd", "acm002181jsd", "acm002182jsd", "acm002183jsd", "acm002184jsd", "acm002185jsd", "acm002186jsd", "acm002187jsd", "acm002188jsd" ]
       },
       "acm002190jsd" : {
@@ -5543,8 +5675,10 @@
         "id" : "acm002197jsd",
         "name" : "AbstractCacheTestInit",
         "compilationUnitId" : "acm002190jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002081jsd", "acm002219jsd" ],
         "content" : [ "acm002196jsd" ]
       },
       "acm002198jsd" : {
@@ -5612,8 +5746,10 @@
         "id" : "acm002207jsd",
         "name" : "AbstractCacheWrapper",
         "compilationUnitId" : "acm002198jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001881jsd", "acm002081jsd", "acm002233jsd" ],
         "content" : [ "acm002204jsd", "acm002205jsd", "acm002206jsd" ]
       },
       "acm002208jsd" : {
@@ -5691,8 +5827,10 @@
         "id" : "acm002219jsd",
         "name" : "DummyData",
         "compilationUnitId" : "acm002208jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001871jsd" ],
+        "datatypeReferencesIds" : [ "acm002219jsd" ],
         "content" : [ "acm002214jsd", "acm002215jsd", "acm002216jsd", "acm002217jsd", "acm002218jsd" ]
       },
       "acm002220jsd" : {
@@ -5780,8 +5918,10 @@
         "id" : "acm002233jsd",
         "name" : "DummyEntry",
         "compilationUnitId" : "acm002220jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm001881jsd" ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm002233jsd" ],
         "content" : [ "acm002226jsd", "acm002227jsd", "acm002228jsd", "acm002229jsd", "acm002230jsd", "acm002231jsd", "acm002232jsd" ]
       },
       "acm002234jsd" : {
@@ -5944,8 +6084,10 @@
         "id" : "acm002262jsd",
         "name" : "TestAbstractCache",
         "compilationUnitId" : "acm002234jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001881jsd", "acm002081jsd", "acm002207jsd" ],
         "content" : [ "acm002240jsd", "acm002241jsd", "acm002242jsd", "acm002243jsd", "acm002244jsd", "acm002245jsd", "acm002246jsd", "acm002247jsd", "acm002248jsd", "acm002249jsd", "acm002250jsd", "acm002251jsd", "acm002252jsd", "acm002253jsd", "acm002254jsd", "acm002255jsd", "acm002256jsd", "acm002257jsd", "acm002258jsd", "acm002259jsd", "acm002260jsd", "acm002261jsd" ]
       },
       "acm002263jsd" : {
@@ -6043,8 +6185,10 @@
         "id" : "acm002278jsd",
         "name" : "TestFirstInFirstOut",
         "compilationUnitId" : "acm002263jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002197jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001756jsd", "acm002219jsd" ],
         "content" : [ "acm002269jsd", "acm002270jsd", "acm002271jsd", "acm002272jsd", "acm002273jsd", "acm002274jsd", "acm002275jsd", "acm002276jsd", "acm002277jsd" ]
       },
       "acm002279jsd" : {
@@ -6142,8 +6286,10 @@
         "id" : "acm002294jsd",
         "name" : "TestLastInFirstOut",
         "compilationUnitId" : "acm002279jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002197jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001785jsd", "acm002219jsd" ],
         "content" : [ "acm002285jsd", "acm002286jsd", "acm002287jsd", "acm002288jsd", "acm002289jsd", "acm002290jsd", "acm002291jsd", "acm002292jsd", "acm002293jsd" ]
       },
       "acm002295jsd" : {
@@ -6241,8 +6387,10 @@
         "id" : "acm002310jsd",
         "name" : "TestLeastFrequentlyUsed",
         "compilationUnitId" : "acm002295jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002197jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001797jsd", "acm002219jsd" ],
         "content" : [ "acm002301jsd", "acm002302jsd", "acm002303jsd", "acm002304jsd", "acm002305jsd", "acm002306jsd", "acm002307jsd", "acm002308jsd", "acm002309jsd" ]
       },
       "acm002311jsd" : {
@@ -6340,8 +6488,10 @@
         "id" : "acm002326jsd",
         "name" : "TestLeastRecentlyUsed",
         "compilationUnitId" : "acm002311jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002197jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001809jsd", "acm002219jsd" ],
         "content" : [ "acm002317jsd", "acm002318jsd", "acm002319jsd", "acm002320jsd", "acm002321jsd", "acm002322jsd", "acm002323jsd", "acm002324jsd", "acm002325jsd" ]
       },
       "acm002327jsd" : {
@@ -6439,8 +6589,10 @@
         "id" : "acm002342jsd",
         "name" : "TestMostRecentlyUsed",
         "compilationUnitId" : "acm002327jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002197jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001821jsd", "acm002219jsd" ],
         "content" : [ "acm002333jsd", "acm002334jsd", "acm002335jsd", "acm002336jsd", "acm002337jsd", "acm002338jsd", "acm002339jsd", "acm002340jsd", "acm002341jsd" ]
       },
       "acm002343jsd" : {
@@ -6548,8 +6700,10 @@
         "id" : "acm002360jsd",
         "name" : "TestRandomReplacement",
         "compilationUnitId" : "acm002343jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002197jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001835jsd", "acm002219jsd" ],
         "content" : [ "acm002349jsd", "acm002350jsd", "acm002351jsd", "acm002352jsd", "acm002353jsd", "acm002354jsd", "acm002355jsd", "acm002356jsd", "acm002357jsd", "acm002358jsd", "acm002359jsd" ]
       },
       "acm002361jsd" : {
@@ -6619,8 +6773,10 @@
         "id" : "acm002370jsd",
         "name" : "AbstractEntryWrapper",
         "compilationUnitId" : "acm002361jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001850jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd" ],
         "content" : [ "acm002368jsd", "acm002369jsd" ]
       },
       "acm002371jsd" : {
@@ -6720,8 +6876,10 @@
         "id" : "acm002386jsd",
         "name" : "TestAbstractEntry",
         "compilationUnitId" : "acm002371jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001850jsd", "acm002370jsd" ],
         "content" : [ "acm002378jsd", "acm002379jsd", "acm002380jsd", "acm002381jsd", "acm002382jsd", "acm002383jsd", "acm002384jsd", "acm002385jsd" ]
       },
       "acm002387jsd" : {
@@ -6801,8 +6959,10 @@
         "id" : "acm002398jsd",
         "name" : "TestCountedEntry",
         "compilationUnitId" : "acm002387jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001861jsd" ],
         "content" : [ "acm002394jsd", "acm002395jsd", "acm002396jsd", "acm002397jsd" ]
       },
       "acm002399jsd" : {
@@ -6882,8 +7042,10 @@
         "id" : "acm002410jsd",
         "name" : "TestSimpleEntry",
         "compilationUnitId" : "acm002399jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001891jsd" ],
         "content" : [ "acm002406jsd", "acm002407jsd", "acm002408jsd", "acm002409jsd" ]
       },
       "acm002411jsd" : {
@@ -6963,8 +7125,10 @@
         "id" : "acm002422jsd",
         "name" : "TestTimedEntry",
         "compilationUnitId" : "acm002411jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001902jsd" ],
         "content" : [ "acm002418jsd", "acm002419jsd", "acm002420jsd", "acm002421jsd" ]
       },
       "acm002423jsd" : {
@@ -7034,8 +7198,10 @@
         "id" : "acm002432jsd",
         "name" : "TestCacheAll",
         "compilationUnitId" : "acm002423jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm001911jsd" ],
         "content" : [ "acm002430jsd", "acm002431jsd" ]
       },
       "acm002433jsd" : {
@@ -7088,8 +7254,10 @@
         "id" : "acm002439jsd",
         "name" : "TestDriveStorage",
         "compilationUnitId" : "acm002433jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002440jsd" : {
@@ -7172,8 +7340,10 @@
         "id" : "acm002452jsd",
         "name" : "TestNoStorage",
         "compilationUnitId" : "acm002440jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm002093jsd" ],
         "content" : [ "acm002446jsd", "acm002447jsd", "acm002448jsd", "acm002449jsd", "acm002450jsd", "acm002451jsd" ]
       },
       "acm002453jsd" : {
@@ -7243,8 +7413,10 @@
         "id" : "acm002462jsd",
         "name" : "TestStoreAll",
         "compilationUnitId" : "acm002453jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm002102jsd" ],
         "content" : [ "acm002460jsd", "acm002461jsd" ]
       },
       "acm002463jsd" : {
@@ -7314,8 +7486,10 @@
         "id" : "acm002472jsd",
         "name" : "TestStoreLargeImages",
         "compilationUnitId" : "acm002463jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001690jsd", "acm002111jsd" ],
         "content" : [ "acm002470jsd", "acm002471jsd" ]
       },
       "acm002473jsd" : {
@@ -7388,8 +7562,10 @@
         "id" : "acm002483jsd",
         "name" : "InitialDataGenerationDaemon",
         "compilationUnitId" : "acm002473jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002483jsd" ],
         "content" : [ "acm002479jsd", "acm002480jsd", "acm002481jsd", "acm002482jsd" ]
       },
       "acm002484jsd" : {
@@ -7467,8 +7643,10 @@
         "id" : "acm002495jsd",
         "name" : "CategoryRepository",
         "compilationUnitId" : "acm002484jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002707jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm002495jsd", "acm002538jsd" ],
         "content" : [ "acm002490jsd", "acm002491jsd", "acm002492jsd", "acm002493jsd", "acm002494jsd" ]
       },
       "acm002496jsd" : {
@@ -7556,8 +7734,10 @@
         "id" : "acm002509jsd",
         "name" : "OrderItemRepository",
         "compilationUnitId" : "acm002496jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002707jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd", "acm002509jsd", "acm002576jsd", "acm002599jsd", "acm002621jsd" ],
         "content" : [ "acm002502jsd", "acm002503jsd", "acm002504jsd", "acm002505jsd", "acm002506jsd", "acm002507jsd", "acm002508jsd" ]
       },
       "acm002510jsd" : {
@@ -7640,8 +7820,10 @@
         "id" : "acm002522jsd",
         "name" : "OrderRepository",
         "compilationUnitId" : "acm002510jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002707jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm002522jsd", "acm002576jsd", "acm002642jsd" ],
         "content" : [ "acm002516jsd", "acm002517jsd", "acm002518jsd", "acm002519jsd", "acm002520jsd", "acm002521jsd" ]
       },
       "acm002523jsd" : {
@@ -7739,8 +7921,10 @@
         "id" : "acm002538jsd",
         "name" : "PersistenceCategory",
         "compilationUnitId" : "acm002523jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001352jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002538jsd", "acm002621jsd" ],
         "content" : [ "acm002529jsd", "acm002530jsd", "acm002531jsd", "acm002532jsd", "acm002533jsd", "acm002534jsd", "acm002535jsd", "acm002536jsd", "acm002537jsd" ]
       },
       "acm002539jsd" : {
@@ -7948,8 +8132,10 @@
         "id" : "acm002576jsd",
         "name" : "PersistenceOrder",
         "compilationUnitId" : "acm002539jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001408jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002576jsd", "acm002599jsd", "acm002642jsd" ],
         "content" : [ "acm002545jsd", "acm002546jsd", "acm002547jsd", "acm002548jsd", "acm002549jsd", "acm002550jsd", "acm002551jsd", "acm002552jsd", "acm002553jsd", "acm002554jsd", "acm002555jsd", "acm002556jsd", "acm002557jsd", "acm002558jsd", "acm002559jsd", "acm002560jsd", "acm002561jsd", "acm002562jsd", "acm002563jsd", "acm002564jsd", "acm002565jsd", "acm002566jsd", "acm002567jsd", "acm002568jsd", "acm002569jsd", "acm002570jsd", "acm002571jsd", "acm002572jsd", "acm002573jsd", "acm002574jsd", "acm002575jsd" ]
       },
       "acm002577jsd" : {
@@ -8082,8 +8268,10 @@
         "id" : "acm002599jsd",
         "name" : "PersistenceOrderItem",
         "compilationUnitId" : "acm002577jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001428jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002576jsd", "acm002599jsd", "acm002621jsd" ],
         "content" : [ "acm002583jsd", "acm002584jsd", "acm002585jsd", "acm002586jsd", "acm002587jsd", "acm002588jsd", "acm002589jsd", "acm002590jsd", "acm002591jsd", "acm002592jsd", "acm002593jsd", "acm002594jsd", "acm002595jsd", "acm002596jsd", "acm002597jsd", "acm002598jsd" ]
       },
       "acm002600jsd" : {
@@ -8211,8 +8399,10 @@
         "id" : "acm002621jsd",
         "name" : "PersistenceProduct",
         "compilationUnitId" : "acm002600jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001448jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002538jsd", "acm002599jsd", "acm002621jsd" ],
         "content" : [ "acm002606jsd", "acm002607jsd", "acm002608jsd", "acm002609jsd", "acm002610jsd", "acm002611jsd", "acm002612jsd", "acm002613jsd", "acm002614jsd", "acm002615jsd", "acm002616jsd", "acm002617jsd", "acm002618jsd", "acm002619jsd", "acm002620jsd" ]
       },
       "acm002622jsd" : {
@@ -8335,8 +8525,10 @@
         "id" : "acm002642jsd",
         "name" : "PersistenceUser",
         "compilationUnitId" : "acm002622jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001468jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002576jsd", "acm002642jsd" ],
         "content" : [ "acm002628jsd", "acm002629jsd", "acm002630jsd", "acm002631jsd", "acm002632jsd", "acm002633jsd", "acm002634jsd", "acm002635jsd", "acm002636jsd", "acm002637jsd", "acm002638jsd", "acm002639jsd", "acm002640jsd", "acm002641jsd" ]
       },
       "acm002643jsd" : {
@@ -8424,8 +8616,10 @@
         "id" : "acm002656jsd",
         "name" : "ProductRepository",
         "compilationUnitId" : "acm002643jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002707jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001448jsd", "acm002538jsd", "acm002621jsd", "acm002656jsd" ],
         "content" : [ "acm002649jsd", "acm002650jsd", "acm002651jsd", "acm002652jsd", "acm002653jsd", "acm002654jsd", "acm002655jsd" ]
       },
       "acm002657jsd" : {
@@ -8508,8 +8702,10 @@
         "id" : "acm002669jsd",
         "name" : "UserRepository",
         "compilationUnitId" : "acm002657jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002707jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001468jsd", "acm002642jsd", "acm002669jsd" ],
         "content" : [ "acm002663jsd", "acm002664jsd", "acm002665jsd", "acm002666jsd", "acm002667jsd", "acm002668jsd" ]
       },
       "acm002670jsd" : {
@@ -8579,8 +8775,10 @@
         "id" : "acm002679jsd",
         "name" : "LocalDateAttributeConverter",
         "compilationUnitId" : "acm002670jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002677jsd", "acm002678jsd" ]
       },
       "acm002680jsd" : {
@@ -8650,8 +8848,10 @@
         "id" : "acm002689jsd",
         "name" : "LocalDateTimeAttributeConverter",
         "compilationUnitId" : "acm002680jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002687jsd", "acm002688jsd" ]
       },
       "acm002690jsd" : {
@@ -8759,8 +8959,10 @@
         "id" : "acm002707jsd",
         "name" : "AbstractPersistenceRepository",
         "compilationUnitId" : "acm002690jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002696jsd", "acm002697jsd", "acm002698jsd", "acm002699jsd", "acm002700jsd", "acm002701jsd", "acm002702jsd", "acm002703jsd", "acm002704jsd", "acm002705jsd", "acm002706jsd" ]
       },
       "acm002708jsd" : {
@@ -8868,8 +9070,10 @@
         "id" : "acm002725jsd",
         "name" : "CacheManager",
         "compilationUnitId" : "acm002708jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002725jsd" ],
         "content" : [ "acm002714jsd", "acm002715jsd", "acm002716jsd", "acm002717jsd", "acm002718jsd", "acm002719jsd", "acm002720jsd", "acm002721jsd", "acm002722jsd", "acm002723jsd", "acm002724jsd" ]
       },
       "acm002726jsd" : {
@@ -9002,8 +9206,10 @@
         "id" : "acm002748jsd",
         "name" : "DataGenerator",
         "compilationUnitId" : "acm002726jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001408jsd", "acm001428jsd", "acm001448jsd", "acm002538jsd", "acm002748jsd", "acm002759jsd" ],
         "content" : [ "acm002732jsd", "acm002733jsd", "acm002734jsd", "acm002735jsd", "acm002736jsd", "acm002737jsd", "acm002738jsd", "acm002739jsd", "acm002740jsd", "acm002741jsd", "acm002742jsd", "acm002743jsd", "acm002744jsd", "acm002745jsd", "acm002746jsd", "acm002747jsd" ]
       },
       "acm002749jsd" : {
@@ -9076,8 +9282,10 @@
         "id" : "acm002759jsd",
         "name" : "DatabaseManagementEntity",
         "compilationUnitId" : "acm002749jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002755jsd", "acm002756jsd", "acm002757jsd", "acm002758jsd" ]
       },
       "acm002760jsd" : {
@@ -9160,8 +9368,10 @@
         "id" : "acm002772jsd",
         "name" : "EMFManager",
         "compilationUnitId" : "acm002760jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002772jsd" ],
         "content" : [ "acm002766jsd", "acm002767jsd", "acm002768jsd", "acm002769jsd", "acm002770jsd", "acm002771jsd" ]
       },
       "acm002773jsd" : {
@@ -9229,8 +9439,10 @@
         "id" : "acm002782jsd",
         "name" : "CacheManagerEndpoint",
         "compilationUnitId" : "acm002773jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002779jsd", "acm002780jsd", "acm002781jsd" ]
       },
       "acm002783jsd" : {
@@ -9308,8 +9520,10 @@
         "id" : "acm002794jsd",
         "name" : "CategoryEndpoint",
         "compilationUnitId" : "acm002783jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003841jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd" ],
         "content" : [ "acm002789jsd", "acm002790jsd", "acm002791jsd", "acm002792jsd", "acm002793jsd" ]
       },
       "acm002795jsd" : {
@@ -9387,8 +9601,10 @@
         "id" : "acm002806jsd",
         "name" : "DatabaseGenerationEndpoint",
         "compilationUnitId" : "acm002795jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002806jsd" ],
         "content" : [ "acm002801jsd", "acm002802jsd", "acm002803jsd", "acm002804jsd", "acm002805jsd" ]
       },
       "acm002807jsd" : {
@@ -9471,8 +9687,10 @@
         "id" : "acm002819jsd",
         "name" : "OrderEndpoint",
         "compilationUnitId" : "acm002807jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003841jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd" ],
         "content" : [ "acm002813jsd", "acm002814jsd", "acm002815jsd", "acm002816jsd", "acm002817jsd", "acm002818jsd" ]
       },
       "acm002820jsd" : {
@@ -9560,8 +9778,10 @@
         "id" : "acm002833jsd",
         "name" : "OrderItemEndpoint",
         "compilationUnitId" : "acm002820jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003841jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd" ],
         "content" : [ "acm002826jsd", "acm002827jsd", "acm002828jsd", "acm002829jsd", "acm002830jsd", "acm002831jsd", "acm002832jsd" ]
       },
       "acm002834jsd" : {
@@ -9649,8 +9869,10 @@
         "id" : "acm002847jsd",
         "name" : "ProductEndpoint",
         "compilationUnitId" : "acm002834jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003841jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001448jsd" ],
         "content" : [ "acm002840jsd", "acm002841jsd", "acm002842jsd", "acm002843jsd", "acm002844jsd", "acm002845jsd", "acm002846jsd" ]
       },
       "acm002848jsd" : {
@@ -9733,8 +9955,10 @@
         "id" : "acm002860jsd",
         "name" : "UserEndpoint",
         "compilationUnitId" : "acm002848jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003841jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001468jsd" ],
         "content" : [ "acm002854jsd", "acm002855jsd", "acm002856jsd", "acm002857jsd", "acm002858jsd", "acm002859jsd" ]
       },
       "acm002861jsd" : {
@@ -9802,8 +10026,10 @@
         "id" : "acm002870jsd",
         "name" : "IndexServlet",
         "compilationUnitId" : "acm002861jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002867jsd", "acm002868jsd", "acm002869jsd" ]
       },
       "acm002871jsd" : {
@@ -9859,8 +10085,10 @@
         "id" : "acm002878jsd",
         "name" : "DataGeneratorTest",
         "compilationUnitId" : "acm002871jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002538jsd" ],
         "content" : [ "acm002876jsd", "acm002877jsd" ]
       },
       "acm002879jsd" : {
@@ -9921,8 +10149,10 @@
         "id" : "acm002887jsd",
         "name" : "RegistrationDaemon",
         "compilationUnitId" : "acm002879jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002887jsd" ],
         "content" : [ "acm002884jsd", "acm002885jsd", "acm002886jsd" ]
       },
       "acm002888jsd" : {
@@ -9978,8 +10208,10 @@
         "id" : "acm002895jsd",
         "name" : "RepositoryTest",
         "compilationUnitId" : "acm002888jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001408jsd", "acm001428jsd", "acm001448jsd", "acm001468jsd", "acm002495jsd", "acm002509jsd", "acm002522jsd", "acm002538jsd", "acm002599jsd", "acm002621jsd", "acm002656jsd", "acm002669jsd" ],
         "content" : [ "acm002893jsd", "acm002894jsd" ]
       },
       "acm002896jsd" : {
@@ -10047,8 +10279,10 @@
         "id" : "acm002905jsd",
         "name" : "EMFManagerInitializer",
         "compilationUnitId" : "acm002896jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002902jsd", "acm002903jsd", "acm002904jsd" ]
       },
       "acm002906jsd" : {
@@ -10171,8 +10405,10 @@
         "id" : "acm002926jsd",
         "name" : "AbstractRecommender",
         "compilationUnitId" : "acm002906jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm002935jsd" ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd", "acm002926jsd", "acm002949jsd" ],
         "content" : [ "acm002912jsd", "acm002913jsd", "acm002914jsd", "acm002915jsd", "acm002916jsd", "acm002917jsd", "acm002918jsd", "acm002919jsd", "acm002920jsd", "acm002921jsd", "acm002922jsd", "acm002923jsd", "acm002924jsd", "acm002925jsd" ]
       },
       "acm002927jsd" : {
@@ -10235,8 +10471,10 @@
         "id" : "acm002935jsd",
         "name" : "IRecommender",
         "compilationUnitId" : "acm002927jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd" ],
         "content" : [ "acm002933jsd", "acm002934jsd" ]
       },
       "acm002936jsd" : {
@@ -10324,8 +10562,10 @@
         "id" : "acm002949jsd",
         "name" : "OrderItemSet",
         "compilationUnitId" : "acm002936jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002942jsd", "acm002943jsd", "acm002944jsd", "acm002945jsd", "acm002946jsd", "acm002947jsd", "acm002948jsd" ]
       },
       "acm002950jsd" : {
@@ -10398,8 +10638,10 @@
         "id" : "acm002960jsd",
         "name" : "RecommenderSelector",
         "compilationUnitId" : "acm002950jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm002935jsd" ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd", "acm002935jsd", "acm002960jsd", "acm002978jsd", "acm002991jsd", "acm003009jsd", "acm003020jsd", "acm003031jsd" ],
         "content" : [ "acm002956jsd", "acm002957jsd", "acm002958jsd", "acm002959jsd" ]
       },
       "acm002961jsd" : {
@@ -10464,8 +10706,10 @@
         "id" : "acm002969jsd",
         "name" : "DummyRecommender",
         "compilationUnitId" : "acm002961jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002926jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002968jsd" ]
       },
       "acm002970jsd" : {
@@ -10530,8 +10774,10 @@
         "id" : "acm002978jsd",
         "name" : "UseFallBackException",
         "compilationUnitId" : "acm002970jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002977jsd" ]
       },
       "acm002979jsd" : {
@@ -10618,8 +10864,10 @@
         "id" : "acm002991jsd",
         "name" : "PreprocessedSlopeOneRecommender",
         "compilationUnitId" : "acm002979jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003009jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002987jsd", "acm002988jsd", "acm002989jsd", "acm002990jsd" ]
       },
       "acm002992jsd" : {
@@ -10731,8 +10979,10 @@
         "id" : "acm003009jsd",
         "name" : "SlopeOneRecommender",
         "compilationUnitId" : "acm002992jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002926jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002978jsd" ],
         "content" : [ "acm003000jsd", "acm003001jsd", "acm003002jsd", "acm003003jsd", "acm003004jsd", "acm003005jsd", "acm003006jsd", "acm003007jsd", "acm003008jsd" ]
       },
       "acm003010jsd" : {
@@ -10809,8 +11059,10 @@
         "id" : "acm003020jsd",
         "name" : "OrderBasedRecommender",
         "compilationUnitId" : "acm003010jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002926jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002949jsd", "acm002978jsd" ],
         "content" : [ "acm003018jsd", "acm003019jsd" ]
       },
       "acm003021jsd" : {
@@ -10887,8 +11139,10 @@
         "id" : "acm003031jsd",
         "name" : "PopularityBasedRecommender",
         "compilationUnitId" : "acm003021jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002926jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003029jsd", "acm003030jsd" ]
       },
       "acm003032jsd" : {
@@ -10946,8 +11200,10 @@
         "id" : "acm003039jsd",
         "name" : "RecommendEndpoint",
         "compilationUnitId" : "acm003032jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd" ],
         "content" : [ "acm003038jsd" ]
       },
       "acm003040jsd" : {
@@ -11005,8 +11261,10 @@
         "id" : "acm003047jsd",
         "name" : "RecommendSingleEndpoint",
         "compilationUnitId" : "acm003040jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd" ],
         "content" : [ "acm003046jsd" ]
       },
       "acm003048jsd" : {
@@ -11074,8 +11332,10 @@
         "id" : "acm003057jsd",
         "name" : "TrainEndpoint",
         "compilationUnitId" : "acm003048jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003054jsd", "acm003055jsd", "acm003056jsd" ]
       },
       "acm003058jsd" : {
@@ -11143,8 +11403,10 @@
         "id" : "acm003067jsd",
         "name" : "IndexServlet",
         "compilationUnitId" : "acm003058jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003064jsd", "acm003065jsd", "acm003066jsd" ]
       },
       "acm003068jsd" : {
@@ -11212,8 +11474,10 @@
         "id" : "acm003077jsd",
         "name" : "RecommenderStartup",
         "compilationUnitId" : "acm003068jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003077jsd", "acm003087jsd" ],
         "content" : [ "acm003074jsd", "acm003075jsd", "acm003076jsd" ]
       },
       "acm003078jsd" : {
@@ -11281,8 +11545,10 @@
         "id" : "acm003087jsd",
         "name" : "RetrainDaemon",
         "compilationUnitId" : "acm003078jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003612jsd" ],
         "content" : [ "acm003084jsd", "acm003085jsd", "acm003086jsd" ]
       },
       "acm003088jsd" : {
@@ -11395,8 +11661,10 @@
         "id" : "acm003106jsd",
         "name" : "TrainingSynchronizer",
         "compilationUnitId" : "acm003088jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd", "acm003106jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003094jsd", "acm003095jsd", "acm003096jsd", "acm003097jsd", "acm003098jsd", "acm003099jsd", "acm003100jsd", "acm003101jsd", "acm003102jsd", "acm003103jsd", "acm003104jsd", "acm003105jsd" ]
       },
       "acm003107jsd" : {
@@ -11454,8 +11722,10 @@
         "id" : "acm003114jsd",
         "name" : "AbstractRecommenderFunctionalityTest",
         "compilationUnitId" : "acm003107jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003139jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003113jsd" ]
       },
       "acm003115jsd" : {
@@ -11598,8 +11868,10 @@
         "id" : "acm003139jsd",
         "name" : "AbstractRecommenderTest",
         "compilationUnitId" : "acm003115jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001428jsd", "acm001468jsd", "acm002926jsd" ],
         "content" : [ "acm003121jsd", "acm003122jsd", "acm003123jsd", "acm003124jsd", "acm003125jsd", "acm003126jsd", "acm003127jsd", "acm003128jsd", "acm003129jsd", "acm003130jsd", "acm003131jsd", "acm003132jsd", "acm003133jsd", "acm003134jsd", "acm003135jsd", "acm003136jsd", "acm003137jsd", "acm003138jsd" ]
       },
       "acm003140jsd" : {
@@ -11667,8 +11939,10 @@
         "id" : "acm003149jsd",
         "name" : "DummyRecommenderTest",
         "compilationUnitId" : "acm003140jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003114jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002969jsd" ],
         "content" : [ "acm003146jsd", "acm003147jsd", "acm003148jsd" ]
       },
       "acm003150jsd" : {
@@ -11746,8 +12020,10 @@
         "id" : "acm003161jsd",
         "name" : "OrderBasedRecommenderTest",
         "compilationUnitId" : "acm003150jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003114jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd", "acm002978jsd", "acm003020jsd" ],
         "content" : [ "acm003156jsd", "acm003157jsd", "acm003158jsd", "acm003159jsd", "acm003160jsd" ]
       },
       "acm003162jsd" : {
@@ -11815,8 +12091,10 @@
         "id" : "acm003171jsd",
         "name" : "PopularityBasedRecommenderTest",
         "compilationUnitId" : "acm003162jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003114jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003031jsd" ],
         "content" : [ "acm003168jsd", "acm003169jsd", "acm003170jsd" ]
       },
       "acm003172jsd" : {
@@ -11889,8 +12167,10 @@
         "id" : "acm003182jsd",
         "name" : "PreprocessedSlopeOneRecommenderTest",
         "compilationUnitId" : "acm003172jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003194jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002991jsd" ],
         "content" : [ "acm003178jsd", "acm003179jsd", "acm003180jsd", "acm003181jsd" ]
       },
       "acm003183jsd" : {
@@ -11968,8 +12248,10 @@
         "id" : "acm003194jsd",
         "name" : "SlopeOneRecommenderTest",
         "compilationUnitId" : "acm003183jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003114jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002978jsd", "acm003009jsd" ],
         "content" : [ "acm003189jsd", "acm003190jsd", "acm003191jsd", "acm003192jsd", "acm003193jsd" ]
       },
       "acm003195jsd" : {
@@ -12037,8 +12319,10 @@
         "id" : "acm003204jsd",
         "name" : "HeartbeatInfo",
         "compilationUnitId" : "acm003195jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003201jsd", "acm003202jsd", "acm003203jsd" ]
       },
       "acm003205jsd" : {
@@ -12126,8 +12410,10 @@
         "id" : "acm003218jsd",
         "name" : "Registry",
         "compilationUnitId" : "acm003205jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003204jsd", "acm003218jsd" ],
         "content" : [ "acm003211jsd", "acm003212jsd", "acm003213jsd", "acm003214jsd", "acm003215jsd", "acm003216jsd", "acm003217jsd" ]
       },
       "acm003219jsd" : {
@@ -12195,8 +12481,10 @@
         "id" : "acm003228jsd",
         "name" : "RegistryREST",
         "compilationUnitId" : "acm003219jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003225jsd", "acm003226jsd", "acm003227jsd" ]
       },
       "acm003229jsd" : {
@@ -12269,8 +12557,10 @@
         "id" : "acm003239jsd",
         "name" : "RegistryStartup",
         "compilationUnitId" : "acm003229jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003239jsd" ],
         "content" : [ "acm003235jsd", "acm003236jsd", "acm003237jsd", "acm003238jsd" ]
       },
       "acm003240jsd" : {
@@ -12338,8 +12628,10 @@
         "id" : "acm003249jsd",
         "name" : "IndexServlet",
         "compilationUnitId" : "acm003240jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003246jsd", "acm003247jsd", "acm003248jsd" ]
       },
       "acm003250jsd" : {
@@ -12397,8 +12689,10 @@
         "id" : "acm003257jsd",
         "name" : "ReadyRest",
         "compilationUnitId" : "acm003250jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003256jsd" ]
       },
       "acm003258jsd" : {
@@ -12461,8 +12755,10 @@
         "id" : "acm003266jsd",
         "name" : "AboutUsServlet",
         "compilationUnitId" : "acm003258jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003641jsd" ],
         "content" : [ "acm003264jsd", "acm003265jsd" ]
       },
       "acm003267jsd" : {
@@ -12580,8 +12876,10 @@
         "id" : "acm003286jsd",
         "name" : "AbstractUIServlet",
         "compilationUnitId" : "acm003267jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001488jsd", "acm003605jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003273jsd", "acm003274jsd", "acm003275jsd", "acm003276jsd", "acm003277jsd", "acm003278jsd", "acm003279jsd", "acm003280jsd", "acm003281jsd", "acm003282jsd", "acm003283jsd", "acm003284jsd", "acm003285jsd" ]
       },
       "acm003287jsd" : {
@@ -12659,8 +12957,10 @@
         "id" : "acm003298jsd",
         "name" : "CartActionServlet",
         "compilationUnitId" : "acm003287jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001428jsd", "acm001488jsd", "acm003641jsd" ],
         "content" : [ "acm003293jsd", "acm003294jsd", "acm003295jsd", "acm003296jsd", "acm003297jsd" ]
       },
       "acm003299jsd" : {
@@ -12723,8 +13023,10 @@
         "id" : "acm003307jsd",
         "name" : "CartServlet",
         "compilationUnitId" : "acm003299jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001428jsd", "acm001448jsd", "acm001488jsd", "acm003641jsd" ],
         "content" : [ "acm003305jsd", "acm003306jsd" ]
       },
       "acm003308jsd" : {
@@ -12797,8 +13099,10 @@
         "id" : "acm003318jsd",
         "name" : "CategoryServlet",
         "compilationUnitId" : "acm003308jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001448jsd", "acm003641jsd" ],
         "content" : [ "acm003314jsd", "acm003315jsd", "acm003316jsd", "acm003317jsd" ]
       },
       "acm003319jsd" : {
@@ -12866,8 +13170,10 @@
         "id" : "acm003328jsd",
         "name" : "DataBaseActionServlet",
         "compilationUnitId" : "acm003319jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003328jsd", "acm003641jsd" ],
         "content" : [ "acm003325jsd", "acm003326jsd", "acm003327jsd" ]
       },
       "acm003329jsd" : {
@@ -12930,8 +13236,10 @@
         "id" : "acm003337jsd",
         "name" : "DataBaseServlet",
         "compilationUnitId" : "acm003329jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003641jsd" ],
         "content" : [ "acm003335jsd", "acm003336jsd" ]
       },
       "acm003338jsd" : {
@@ -12994,8 +13302,10 @@
         "id" : "acm003346jsd",
         "name" : "ErrorServlet",
         "compilationUnitId" : "acm003338jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm003641jsd" ],
         "content" : [ "acm003344jsd", "acm003345jsd" ]
       },
       "acm003347jsd" : {
@@ -13058,8 +13368,10 @@
         "id" : "acm003355jsd",
         "name" : "IndexServlet",
         "compilationUnitId" : "acm003347jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm003641jsd" ],
         "content" : [ "acm003353jsd", "acm003354jsd" ]
       },
       "acm003356jsd" : {
@@ -13127,8 +13439,10 @@
         "id" : "acm003365jsd",
         "name" : "LoginActionServlet",
         "compilationUnitId" : "acm003356jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001488jsd", "acm003641jsd" ],
         "content" : [ "acm003362jsd", "acm003363jsd", "acm003364jsd" ]
       },
       "acm003366jsd" : {
@@ -13191,8 +13505,10 @@
         "id" : "acm003374jsd",
         "name" : "LoginServlet",
         "compilationUnitId" : "acm003366jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm003641jsd" ],
         "content" : [ "acm003372jsd", "acm003373jsd" ]
       },
       "acm003375jsd" : {
@@ -13260,8 +13576,10 @@
         "id" : "acm003384jsd",
         "name" : "OrderServlet",
         "compilationUnitId" : "acm003375jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm003641jsd" ],
         "content" : [ "acm003381jsd", "acm003382jsd", "acm003383jsd" ]
       },
       "acm003385jsd" : {
@@ -13324,8 +13642,10 @@
         "id" : "acm003393jsd",
         "name" : "ProductServlet",
         "compilationUnitId" : "acm003385jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001428jsd", "acm001448jsd", "acm001488jsd", "acm003641jsd" ],
         "content" : [ "acm003391jsd", "acm003392jsd" ]
       },
       "acm003394jsd" : {
@@ -13388,8 +13708,10 @@
         "id" : "acm003402jsd",
         "name" : "ProfileServlet",
         "compilationUnitId" : "acm003394jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001408jsd", "acm001468jsd", "acm003641jsd" ],
         "content" : [ "acm003400jsd", "acm003401jsd" ]
       },
       "acm003403jsd" : {
@@ -13467,8 +13789,10 @@
         "id" : "acm003414jsd",
         "name" : "StatusServlet",
         "compilationUnitId" : "acm003403jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm003286jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003641jsd" ],
         "content" : [ "acm003409jsd", "acm003410jsd", "acm003411jsd", "acm003412jsd", "acm003413jsd" ]
       },
       "acm003415jsd" : {
@@ -13543,8 +13867,10 @@
         "id" : "acm003425jsd",
         "name" : "ELHelperUtils",
         "compilationUnitId" : "acm003415jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003425jsd" ],
         "content" : [ "acm003422jsd", "acm003423jsd", "acm003424jsd" ]
       },
       "acm003426jsd" : {
@@ -13612,8 +13938,10 @@
         "id" : "acm003435jsd",
         "name" : "WebuiStartup",
         "compilationUnitId" : "acm003426jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003432jsd", "acm003433jsd", "acm003434jsd" ]
       },
       "acm003436jsd" : {
@@ -13689,8 +14017,10 @@
         "id" : "acm003447jsd",
         "name" : "Configurator",
         "compilationUnitId" : "acm003436jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003441jsd", "acm003442jsd", "acm003443jsd", "acm003444jsd", "acm003445jsd", "acm003446jsd" ]
       },
       "acm003448jsd" : {
@@ -13768,8 +14098,10 @@
         "id" : "acm003459jsd",
         "name" : "AbstractOperationExecutionWithParameterAspect",
         "compilationUnitId" : "acm003448jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001488jsd", "acm003459jsd", "acm003490jsd" ],
         "content" : [ "acm003454jsd", "acm003455jsd", "acm003456jsd", "acm003457jsd", "acm003458jsd" ]
       },
       "acm003460jsd" : {
@@ -13849,8 +14181,10 @@
         "id" : "acm003471jsd",
         "name" : "IPayloadCharacterization",
         "compilationUnitId" : "acm003460jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003467jsd", "acm003468jsd", "acm003469jsd", "acm003470jsd" ]
       },
       "acm003472jsd" : {
@@ -13965,8 +14299,10 @@
         "id" : "acm003490jsd",
         "name" : "OperationExecutionWithParametersRecord",
         "compilationUnitId" : "acm003472jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ "acm003471jsd" ],
+        "datatypeReferencesIds" : [ "acm003490jsd" ],
         "content" : [ "acm003479jsd", "acm003480jsd", "acm003481jsd", "acm003482jsd", "acm003483jsd", "acm003484jsd", "acm003485jsd", "acm003486jsd", "acm003487jsd", "acm003488jsd", "acm003489jsd" ]
       },
       "acm003491jsd" : {
@@ -14024,8 +14360,10 @@
         "id" : "acm003498jsd",
         "name" : "DisplayLogs",
         "compilationUnitId" : "acm003491jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003497jsd" ]
       },
       "acm003499jsd" : {
@@ -14083,8 +14421,10 @@
         "id" : "acm003506jsd",
         "name" : "FileWriterDaemon",
         "compilationUnitId" : "acm003499jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003505jsd" ]
       },
       "acm003507jsd" : {
@@ -14142,8 +14482,10 @@
         "id" : "acm003514jsd",
         "name" : "IndexServlet",
         "compilationUnitId" : "acm003507jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003513jsd" ]
       },
       "acm003515jsd" : {
@@ -14211,8 +14553,10 @@
         "id" : "acm003524jsd",
         "name" : "LogConsumer",
         "compilationUnitId" : "acm003515jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003521jsd", "acm003522jsd", "acm003523jsd" ]
       },
       "acm003525jsd" : {
@@ -14270,8 +14614,10 @@
         "id" : "acm003532jsd",
         "name" : "LogReaderDaemon",
         "compilationUnitId" : "acm003525jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003524jsd" ],
         "content" : [ "acm003531jsd" ]
       },
       "acm003533jsd" : {
@@ -14349,8 +14695,10 @@
         "id" : "acm003544jsd",
         "name" : "LogReaderStartup",
         "compilationUnitId" : "acm003533jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003506jsd", "acm003532jsd" ],
         "content" : [ "acm003539jsd", "acm003540jsd", "acm003541jsd", "acm003542jsd", "acm003543jsd" ]
       },
       "acm003545jsd" : {
@@ -14423,8 +14771,10 @@
         "id" : "acm003555jsd",
         "name" : "MemoryLogStorage",
         "compilationUnitId" : "acm003545jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003551jsd", "acm003552jsd", "acm003553jsd", "acm003554jsd" ]
       },
       "acm003556jsd" : {
@@ -14492,8 +14842,10 @@
         "id" : "acm003565jsd",
         "name" : "Reset",
         "compilationUnitId" : "acm003556jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003562jsd", "acm003563jsd", "acm003564jsd" ]
       },
       "acm003566jsd" : {
@@ -14629,8 +14981,10 @@
         "id" : "acm003589jsd",
         "name" : "RegistryClient",
         "compilationUnitId" : "acm003566jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003589jsd", "acm003597jsd", "acm003605jsd", "acm003612jsd", "acm003620jsd", "acm003649jsd" ],
         "content" : [ "acm003571jsd", "acm003572jsd", "acm003573jsd", "acm003574jsd", "acm003575jsd", "acm003576jsd", "acm003577jsd", "acm003578jsd", "acm003579jsd", "acm003580jsd", "acm003581jsd", "acm003582jsd", "acm003583jsd", "acm003584jsd", "acm003585jsd", "acm003586jsd", "acm003587jsd", "acm003588jsd" ]
       },
       "acm003590jsd" : {
@@ -14686,8 +15040,10 @@
         "id" : "acm003597jsd",
         "name" : "RegistryClientHeartbeatDaemon",
         "compilationUnitId" : "acm003590jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003605jsd" ],
         "content" : [ "acm003595jsd", "acm003596jsd" ]
       },
       "acm003598jsd" : {
@@ -14743,8 +15099,10 @@
         "id" : "acm003605jsd",
         "name" : "Service",
         "compilationUnitId" : "acm003598jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003603jsd", "acm003604jsd" ]
       },
       "acm003606jsd" : {
@@ -14795,8 +15153,10 @@
         "id" : "acm003612jsd",
         "name" : "StartupCallback",
         "compilationUnitId" : "acm003606jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003611jsd" ]
       },
       "acm003613jsd" : {
@@ -14852,8 +15212,10 @@
         "id" : "acm003620jsd",
         "name" : "StartupCallbackTask",
         "compilationUnitId" : "acm003613jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003589jsd", "acm003605jsd", "acm003612jsd" ],
         "content" : [ "acm003618jsd", "acm003619jsd" ]
       },
       "acm003621jsd" : {
@@ -14931,8 +15293,10 @@
         "id" : "acm003632jsd",
         "name" : "EndpointClientCollection",
         "compilationUnitId" : "acm003621jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003605jsd", "acm003871jsd" ],
         "content" : [ "acm003627jsd", "acm003628jsd", "acm003629jsd", "acm003630jsd", "acm003631jsd" ]
       },
       "acm003633jsd" : {
@@ -14995,8 +15359,10 @@
         "id" : "acm003641jsd",
         "name" : "LoadBalancerTimeoutException",
         "compilationUnitId" : "acm003633jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003605jsd" ],
         "content" : [ "acm003639jsd", "acm003640jsd" ]
       },
       "acm003642jsd" : {
@@ -15054,8 +15420,10 @@
         "id" : "acm003649jsd",
         "name" : "LoadBalancerUpdaterDaemon",
         "compilationUnitId" : "acm003642jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003648jsd" ]
       },
       "acm003650jsd" : {
@@ -15178,8 +15546,10 @@
         "id" : "acm003670jsd",
         "name" : "ServiceLoadBalancer",
         "compilationUnitId" : "acm003650jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003605jsd", "acm003632jsd", "acm003641jsd", "acm003670jsd", "acm003683jsd", "acm003849jsd", "acm003871jsd" ],
         "content" : [ "acm003656jsd", "acm003657jsd", "acm003658jsd", "acm003659jsd", "acm003660jsd", "acm003661jsd", "acm003662jsd", "acm003663jsd", "acm003664jsd", "acm003665jsd", "acm003666jsd", "acm003667jsd", "acm003668jsd", "acm003669jsd" ]
       },
       "acm003671jsd" : {
@@ -15262,8 +15632,10 @@
         "id" : "acm003683jsd",
         "name" : "ServiceLoadBalancerResult",
         "compilationUnitId" : "acm003671jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003683jsd", "acm003849jsd", "acm003871jsd", "acm003879jsd" ],
         "content" : [ "acm003677jsd", "acm003678jsd", "acm003679jsd", "acm003680jsd", "acm003681jsd", "acm003682jsd" ]
       },
       "acm003684jsd" : {
@@ -15351,8 +15723,10 @@
         "id" : "acm003697jsd",
         "name" : "CharResponseWrapper",
         "compilationUnitId" : "acm003684jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003690jsd", "acm003691jsd", "acm003692jsd", "acm003693jsd", "acm003694jsd", "acm003695jsd", "acm003696jsd" ]
       },
       "acm003698jsd" : {
@@ -15415,8 +15789,10 @@
         "id" : "acm003706jsd",
         "name" : "HttpWrapper",
         "compilationUnitId" : "acm003698jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003706jsd" ],
         "content" : [ "acm003704jsd", "acm003705jsd" ]
       },
       "acm003707jsd" : {
@@ -15509,8 +15885,10 @@
         "id" : "acm003721jsd",
         "name" : "LoadBalancedCRUDOperations",
         "compilationUnitId" : "acm003707jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003605jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003713jsd", "acm003714jsd", "acm003715jsd", "acm003716jsd", "acm003717jsd", "acm003718jsd", "acm003719jsd", "acm003720jsd" ]
       },
       "acm003722jsd" : {
@@ -15603,8 +15981,10 @@
         "id" : "acm003736jsd",
         "name" : "LoadBalancedImageOperations",
         "compilationUnitId" : "acm003722jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001370jsd", "acm001448jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003728jsd", "acm003729jsd", "acm003730jsd", "acm003731jsd", "acm003732jsd", "acm003733jsd", "acm003734jsd", "acm003735jsd" ]
       },
       "acm003737jsd" : {
@@ -15667,8 +16047,10 @@
         "id" : "acm003745jsd",
         "name" : "LoadBalancedRecommenderOperations",
         "compilationUnitId" : "acm003737jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001352jsd", "acm001428jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003743jsd", "acm003744jsd" ]
       },
       "acm003746jsd" : {
@@ -15761,8 +16143,10 @@
         "id" : "acm003760jsd",
         "name" : "LoadBalancedStoreOperations",
         "compilationUnitId" : "acm003746jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001448jsd", "acm001488jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003752jsd", "acm003753jsd", "acm003754jsd", "acm003755jsd", "acm003756jsd", "acm003757jsd", "acm003758jsd", "acm003759jsd" ]
       },
       "acm003761jsd" : {
@@ -15855,8 +16239,10 @@
         "id" : "acm003775jsd",
         "name" : "NonBalancedCRUDOperations",
         "compilationUnitId" : "acm003761jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003775jsd", "acm003849jsd", "acm003871jsd", "acm003879jsd" ],
         "content" : [ "acm003767jsd", "acm003768jsd", "acm003769jsd", "acm003770jsd", "acm003771jsd", "acm003772jsd", "acm003773jsd", "acm003774jsd" ]
       },
       "acm003776jsd" : {
@@ -15919,8 +16305,10 @@
         "id" : "acm003784jsd",
         "name" : "ResponseWrapper",
         "compilationUnitId" : "acm003776jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003784jsd" ],
         "content" : [ "acm003782jsd", "acm003783jsd" ]
       },
       "acm003785jsd" : {
@@ -16003,8 +16391,10 @@
         "id" : "acm003797jsd",
         "name" : "RestUtil",
         "compilationUnitId" : "acm003785jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001408jsd", "acm001448jsd", "acm003641jsd", "acm003849jsd" ],
         "content" : [ "acm003791jsd", "acm003792jsd", "acm003793jsd", "acm003794jsd", "acm003795jsd", "acm003796jsd" ]
       },
       "acm003798jsd" : {
@@ -16072,8 +16462,10 @@
         "id" : "acm003807jsd",
         "name" : "TrackingFilter",
         "compilationUnitId" : "acm003798jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003697jsd", "acm003807jsd" ],
         "content" : [ "acm003804jsd", "acm003805jsd", "acm003806jsd" ]
       },
       "acm003808jsd" : {
@@ -16171,8 +16563,10 @@
         "id" : "acm003823jsd",
         "name" : "Tracing",
         "compilationUnitId" : "acm003808jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003814jsd", "acm003815jsd", "acm003816jsd", "acm003817jsd", "acm003818jsd", "acm003819jsd", "acm003820jsd", "acm003821jsd", "acm003822jsd" ]
       },
       "acm003824jsd" : {
@@ -16280,8 +16674,10 @@
         "id" : "acm003841jsd",
         "name" : "AbstractCRUDEndpoint",
         "compilationUnitId" : "acm003824jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm003841jsd" ],
         "content" : [ "acm003830jsd", "acm003831jsd", "acm003832jsd", "acm003833jsd", "acm003834jsd", "acm003835jsd", "acm003836jsd", "acm003837jsd", "acm003838jsd", "acm003839jsd", "acm003840jsd" ]
       },
       "acm003842jsd" : {
@@ -16339,8 +16735,10 @@
         "id" : "acm003849jsd",
         "name" : "NotFoundException",
         "compilationUnitId" : "acm003842jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003848jsd" ]
       },
       "acm003850jsd" : {
@@ -16468,8 +16866,10 @@
         "id" : "acm003871jsd",
         "name" : "RESTClient",
         "compilationUnitId" : "acm003850jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003856jsd", "acm003857jsd", "acm003858jsd", "acm003859jsd", "acm003860jsd", "acm003861jsd", "acm003862jsd", "acm003863jsd", "acm003864jsd", "acm003865jsd", "acm003866jsd", "acm003867jsd", "acm003868jsd", "acm003869jsd", "acm003870jsd" ]
       },
       "acm003872jsd" : {
@@ -16527,8 +16927,10 @@
         "id" : "acm003879jsd",
         "name" : "TimeoutException",
         "compilationUnitId" : "acm003872jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm003878jsd" ]
       },
       "acm003881jsd" : {

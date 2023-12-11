@@ -74,8 +74,10 @@
         "id" : "acm001347jsd",
         "name" : "BaseEJB",
         "compilationUnitId" : "acm001337jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001411jsd", "acm001436jsd", "acm001449jsd", "acm001692jsd" ],
         "content" : [ "acm001344jsd", "acm001345jsd", "acm001346jsd" ]
       },
       "acm001348jsd" : {
@@ -157,8 +159,10 @@
         "id" : "acm001359jsd",
         "name" : "Config",
         "compilationUnitId" : "acm001348jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001436jsd", "acm001449jsd" ],
         "content" : [ "acm001356jsd", "acm001357jsd", "acm001358jsd" ]
       },
       "acm001360jsd" : {
@@ -300,8 +304,10 @@
         "id" : "acm001383jsd",
         "name" : "EJB",
         "compilationUnitId" : "acm001360jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001436jsd", "acm001449jsd" ],
         "content" : [ "acm001368jsd", "acm001369jsd", "acm001370jsd", "acm001371jsd", "acm001372jsd", "acm001373jsd", "acm001374jsd", "acm001375jsd", "acm001376jsd", "acm001377jsd", "acm001378jsd", "acm001379jsd", "acm001380jsd", "acm001381jsd", "acm001382jsd" ]
       },
       "acm001384jsd" : {
@@ -393,8 +399,10 @@
         "id" : "acm001397jsd",
         "name" : "GlobalConstantsContainer",
         "compilationUnitId" : "acm001384jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001392jsd", "acm001393jsd", "acm001394jsd", "acm001395jsd", "acm001396jsd" ]
       },
       "acm001398jsd" : {
@@ -486,8 +494,10 @@
         "id" : "acm001411jsd",
         "name" : "InterfaceDetails",
         "compilationUnitId" : "acm001398jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001436jsd", "acm001692jsd" ],
         "content" : [ "acm001406jsd", "acm001407jsd", "acm001408jsd", "acm001409jsd", "acm001410jsd" ]
       },
       "acm001412jsd" : {
@@ -559,8 +569,10 @@
         "id" : "acm001421jsd",
         "name" : "Main",
         "compilationUnitId" : "acm001412jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001436jsd", "acm001449jsd" ],
         "content" : [ "acm001420jsd" ]
       },
       "acm001422jsd" : {
@@ -657,8 +669,10 @@
         "id" : "acm001436jsd",
         "name" : "ProvidedInterface",
         "compilationUnitId" : "acm001422jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd" ],
         "content" : [ "acm001430jsd", "acm001431jsd", "acm001432jsd", "acm001433jsd", "acm001434jsd", "acm001435jsd" ]
       },
       "acm001437jsd" : {
@@ -745,8 +759,10 @@
         "id" : "acm001449jsd",
         "name" : "RequiredInterface",
         "compilationUnitId" : "acm001437jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001436jsd" ],
         "content" : [ "acm001445jsd", "acm001446jsd", "acm001447jsd", "acm001448jsd" ]
       },
       "acm001450jsd" : {
@@ -928,8 +944,10 @@
         "id" : "acm001481jsd",
         "name" : "AudioFile",
         "compilationUnitId" : "acm001450jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001510jsd", "acm001543jsd" ],
         "content" : [ "acm001458jsd", "acm001459jsd", "acm001460jsd", "acm001461jsd", "acm001462jsd", "acm001463jsd", "acm001464jsd", "acm001465jsd", "acm001466jsd", "acm001467jsd", "acm001468jsd", "acm001469jsd", "acm001470jsd", "acm001471jsd", "acm001472jsd", "acm001473jsd", "acm001474jsd", "acm001475jsd", "acm001476jsd", "acm001477jsd", "acm001478jsd", "acm001479jsd", "acm001480jsd" ]
       },
       "acm001482jsd" : {
@@ -1096,8 +1114,10 @@
         "id" : "acm001510jsd",
         "name" : "AudioFileInfo",
         "compilationUnitId" : "acm001482jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001490jsd", "acm001491jsd", "acm001492jsd", "acm001493jsd", "acm001494jsd", "acm001495jsd", "acm001496jsd", "acm001497jsd", "acm001498jsd", "acm001499jsd", "acm001500jsd", "acm001501jsd", "acm001502jsd", "acm001503jsd", "acm001504jsd", "acm001505jsd", "acm001506jsd", "acm001507jsd", "acm001508jsd", "acm001509jsd" ]
       },
       "acm001511jsd" : {
@@ -1229,8 +1249,10 @@
         "id" : "acm001532jsd",
         "name" : "CurrentUser",
         "compilationUnitId" : "acm001511jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001519jsd", "acm001520jsd", "acm001521jsd", "acm001522jsd", "acm001523jsd", "acm001524jsd", "acm001525jsd", "acm001526jsd", "acm001527jsd", "acm001528jsd", "acm001529jsd", "acm001530jsd", "acm001531jsd" ]
       },
       "acm001533jsd" : {
@@ -1307,8 +1329,10 @@
         "id" : "acm001543jsd",
         "name" : "FileContent",
         "compilationUnitId" : "acm001533jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001543jsd", "acm001556jsd", "acm001569jsd" ],
         "content" : [ "acm001541jsd", "acm001542jsd" ]
       },
       "acm001544jsd" : {
@@ -1395,8 +1419,10 @@
         "id" : "acm001556jsd",
         "name" : "FileContentLocal",
         "compilationUnitId" : "acm001544jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001543jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001552jsd", "acm001553jsd", "acm001554jsd", "acm001555jsd" ]
       },
       "acm001557jsd" : {
@@ -1483,8 +1509,10 @@
         "id" : "acm001569jsd",
         "name" : "FileContentRemote",
         "compilationUnitId" : "acm001557jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001543jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001565jsd", "acm001566jsd", "acm001567jsd", "acm001568jsd" ]
       },
       "acm001570jsd" : {
@@ -1601,8 +1629,10 @@
         "id" : "acm001588jsd",
         "name" : "UserRegData",
         "compilationUnitId" : "acm001570jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001578jsd", "acm001579jsd", "acm001580jsd", "acm001581jsd", "acm001582jsd", "acm001583jsd", "acm001584jsd", "acm001585jsd", "acm001586jsd", "acm001587jsd" ]
       },
       "acm001589jsd" : {
@@ -1684,8 +1714,10 @@
         "id" : "acm001600jsd",
         "name" : "AppException",
         "compilationUnitId" : "acm001589jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001597jsd", "acm001598jsd", "acm001599jsd" ]
       },
       "acm001601jsd" : {
@@ -1757,8 +1789,10 @@
         "id" : "acm001610jsd",
         "name" : "BadLoginDataException",
         "compilationUnitId" : "acm001601jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001609jsd" ]
       },
       "acm001611jsd" : {
@@ -1830,8 +1864,10 @@
         "id" : "acm001620jsd",
         "name" : "ConversionException",
         "compilationUnitId" : "acm001611jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001619jsd" ]
       },
       "acm001621jsd" : {
@@ -1913,8 +1949,10 @@
         "id" : "acm001632jsd",
         "name" : "DbException",
         "compilationUnitId" : "acm001621jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001629jsd", "acm001630jsd", "acm001631jsd" ]
       },
       "acm001633jsd" : {
@@ -1986,8 +2024,10 @@
         "id" : "acm001642jsd",
         "name" : "FailedDownloadException",
         "compilationUnitId" : "acm001633jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001641jsd" ]
       },
       "acm001643jsd" : {
@@ -2059,8 +2099,10 @@
         "id" : "acm001652jsd",
         "name" : "FailedUploadException",
         "compilationUnitId" : "acm001643jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001651jsd" ]
       },
       "acm001653jsd" : {
@@ -2137,8 +2179,10 @@
         "id" : "acm001663jsd",
         "name" : "PropertiesException",
         "compilationUnitId" : "acm001653jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001661jsd", "acm001662jsd" ]
       },
       "acm001664jsd" : {
@@ -2210,8 +2254,10 @@
         "id" : "acm001673jsd",
         "name" : "UnknownServerException",
         "compilationUnitId" : "acm001664jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001600jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001672jsd" ]
       },
       "acm001674jsd" : {
@@ -2283,8 +2329,10 @@
         "id" : "acm001683jsd",
         "name" : "UserAlreadyExistsException",
         "compilationUnitId" : "acm001674jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001632jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001682jsd" ]
       },
       "acm001684jsd" : {
@@ -2351,8 +2399,10 @@
         "id" : "acm001692jsd",
         "name" : "IBusinessInterface",
         "compilationUnitId" : "acm001684jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001693jsd" : {
@@ -2424,8 +2474,10 @@
         "id" : "acm001702jsd",
         "name" : "ICacheMaintenance",
         "compilationUnitId" : "acm001693jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001701jsd" ]
       },
       "acm001703jsd" : {
@@ -2492,8 +2544,10 @@
         "id" : "acm001711jsd",
         "name" : "ICacheMaintenanceLocal",
         "compilationUnitId" : "acm001703jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001702jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001712jsd" : {
@@ -2560,8 +2614,10 @@
         "id" : "acm001720jsd",
         "name" : "ICacheMaintenanceRemote",
         "compilationUnitId" : "acm001712jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001702jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001721jsd" : {
@@ -2633,8 +2689,10 @@
         "id" : "acm001730jsd",
         "name" : "IDownload",
         "compilationUnitId" : "acm001721jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001642jsd" ],
         "content" : [ "acm001729jsd" ]
       },
       "acm001731jsd" : {
@@ -2701,8 +2759,10 @@
         "id" : "acm001739jsd",
         "name" : "IDownloadAudioWatermarking",
         "compilationUnitId" : "acm001731jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001730jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001740jsd" : {
@@ -2769,8 +2829,10 @@
         "id" : "acm001748jsd",
         "name" : "IDownloadAudioWatermarkingLocal",
         "compilationUnitId" : "acm001740jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001739jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001749jsd" : {
@@ -2837,8 +2899,10 @@
         "id" : "acm001757jsd",
         "name" : "IDownloadAudioWatermarkingRemote",
         "compilationUnitId" : "acm001749jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001739jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001758jsd" : {
@@ -2905,8 +2969,10 @@
         "id" : "acm001766jsd",
         "name" : "IDownloadCache",
         "compilationUnitId" : "acm001758jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001730jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001767jsd" : {
@@ -2973,8 +3039,10 @@
         "id" : "acm001775jsd",
         "name" : "IDownloadCacheLocal",
         "compilationUnitId" : "acm001767jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001766jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001776jsd" : {
@@ -3041,8 +3109,10 @@
         "id" : "acm001784jsd",
         "name" : "IDownloadCacheRemote",
         "compilationUnitId" : "acm001776jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001766jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001785jsd" : {
@@ -3109,8 +3179,10 @@
         "id" : "acm001793jsd",
         "name" : "IDownloadMediaAccess",
         "compilationUnitId" : "acm001785jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001730jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001794jsd" : {
@@ -3177,8 +3249,10 @@
         "id" : "acm001802jsd",
         "name" : "IDownloadMediaAccessLocal",
         "compilationUnitId" : "acm001794jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001793jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001803jsd" : {
@@ -3245,8 +3319,10 @@
         "id" : "acm001811jsd",
         "name" : "IDownloadMediaAccessRemote",
         "compilationUnitId" : "acm001803jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001793jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001812jsd" : {
@@ -3313,8 +3389,10 @@
         "id" : "acm001820jsd",
         "name" : "IDownloadReEncoder",
         "compilationUnitId" : "acm001812jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001730jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001821jsd" : {
@@ -3381,8 +3459,10 @@
         "id" : "acm001829jsd",
         "name" : "IDownloadReEncoderLocal",
         "compilationUnitId" : "acm001821jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001820jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001830jsd" : {
@@ -3449,8 +3529,10 @@
         "id" : "acm001838jsd",
         "name" : "IDownloadReEncoderRemote",
         "compilationUnitId" : "acm001830jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001820jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001839jsd" : {
@@ -3517,8 +3599,10 @@
         "id" : "acm001847jsd",
         "name" : "IDownloadTagWatermarking",
         "compilationUnitId" : "acm001839jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001730jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001848jsd" : {
@@ -3585,8 +3669,10 @@
         "id" : "acm001856jsd",
         "name" : "IDownloadTagWatermarkingLocal",
         "compilationUnitId" : "acm001848jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001847jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001857jsd" : {
@@ -3653,8 +3739,10 @@
         "id" : "acm001865jsd",
         "name" : "IDownloadTagWatermarkingRemote",
         "compilationUnitId" : "acm001857jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001847jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001866jsd" : {
@@ -3751,8 +3839,10 @@
         "id" : "acm001880jsd",
         "name" : "IFacade",
         "compilationUnitId" : "acm001866jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001532jsd", "acm001543jsd", "acm001588jsd", "acm001610jsd", "acm001642jsd", "acm001652jsd", "acm001683jsd" ],
         "content" : [ "acm001874jsd", "acm001875jsd", "acm001876jsd", "acm001877jsd", "acm001878jsd", "acm001879jsd" ]
       },
       "acm001881jsd" : {
@@ -3819,8 +3909,10 @@
         "id" : "acm001889jsd",
         "name" : "IFacadeLocal",
         "compilationUnitId" : "acm001881jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001880jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001890jsd" : {
@@ -3887,8 +3979,10 @@
         "id" : "acm001898jsd",
         "name" : "IFacadeRemote",
         "compilationUnitId" : "acm001890jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001880jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001899jsd" : {
@@ -3965,8 +4059,10 @@
         "id" : "acm001909jsd",
         "name" : "IMediaAccess",
         "compilationUnitId" : "acm001899jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001652jsd" ],
         "content" : [ "acm001907jsd", "acm001908jsd" ]
       },
       "acm001910jsd" : {
@@ -4033,8 +4129,10 @@
         "id" : "acm001918jsd",
         "name" : "IMediaAccessLocal",
         "compilationUnitId" : "acm001910jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001909jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001919jsd" : {
@@ -4111,8 +4209,10 @@
         "id" : "acm001929jsd",
         "name" : "IMediaAccessMaintenance",
         "compilationUnitId" : "acm001919jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm001927jsd", "acm001928jsd" ]
       },
       "acm001930jsd" : {
@@ -4179,8 +4279,10 @@
         "id" : "acm001938jsd",
         "name" : "IMediaAccessMaintenanceLocal",
         "compilationUnitId" : "acm001930jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001929jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001939jsd" : {
@@ -4247,8 +4349,10 @@
         "id" : "acm001947jsd",
         "name" : "IMediaAccessMaintenanceRemote",
         "compilationUnitId" : "acm001939jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001929jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001948jsd" : {
@@ -4315,8 +4419,10 @@
         "id" : "acm001956jsd",
         "name" : "IMediaAccessRemote",
         "compilationUnitId" : "acm001948jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001909jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001957jsd" : {
@@ -4398,8 +4504,10 @@
         "id" : "acm001968jsd",
         "name" : "IMediaManagement",
         "compilationUnitId" : "acm001957jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001543jsd", "acm001642jsd", "acm001652jsd" ],
         "content" : [ "acm001965jsd", "acm001966jsd", "acm001967jsd" ]
       },
       "acm001969jsd" : {
@@ -4466,8 +4574,10 @@
         "id" : "acm001977jsd",
         "name" : "IMediaManagementLocal",
         "compilationUnitId" : "acm001969jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001968jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001978jsd" : {
@@ -4534,8 +4644,10 @@
         "id" : "acm001986jsd",
         "name" : "IMediaManagementRemote",
         "compilationUnitId" : "acm001978jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001968jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm001987jsd" : {
@@ -4607,8 +4719,10 @@
         "id" : "acm001996jsd",
         "name" : "IPackaging",
         "compilationUnitId" : "acm001987jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001543jsd" ],
         "content" : [ "acm001995jsd" ]
       },
       "acm001997jsd" : {
@@ -4675,8 +4789,10 @@
         "id" : "acm002005jsd",
         "name" : "IPackagingLocal",
         "compilationUnitId" : "acm001997jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001996jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002006jsd" : {
@@ -4743,8 +4859,10 @@
         "id" : "acm002014jsd",
         "name" : "IPackagingRemote",
         "compilationUnitId" : "acm002006jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001996jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002015jsd" : {
@@ -4826,8 +4944,10 @@
         "id" : "acm002026jsd",
         "name" : "IUserDBAdapter",
         "compilationUnitId" : "acm002015jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001532jsd", "acm001588jsd", "acm001610jsd", "acm001683jsd" ],
         "content" : [ "acm002023jsd", "acm002024jsd", "acm002025jsd" ]
       },
       "acm002027jsd" : {
@@ -4894,8 +5014,10 @@
         "id" : "acm002035jsd",
         "name" : "IUserDBAdapterLocal",
         "compilationUnitId" : "acm002027jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002026jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002036jsd" : {
@@ -4962,8 +5084,10 @@
         "id" : "acm002044jsd",
         "name" : "IUserDBAdapterRemote",
         "compilationUnitId" : "acm002036jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002026jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002045jsd" : {
@@ -5040,8 +5164,10 @@
         "id" : "acm002055jsd",
         "name" : "IUserManagement",
         "compilationUnitId" : "acm002045jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001692jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001532jsd", "acm001588jsd", "acm001610jsd", "acm001683jsd" ],
         "content" : [ "acm002053jsd", "acm002054jsd" ]
       },
       "acm002056jsd" : {
@@ -5108,8 +5234,10 @@
         "id" : "acm002064jsd",
         "name" : "IUserManagementLocal",
         "compilationUnitId" : "acm002056jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002055jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002065jsd" : {
@@ -5176,8 +5304,10 @@
         "id" : "acm002073jsd",
         "name" : "IUserManagementRemote",
         "compilationUnitId" : "acm002065jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm002055jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002074jsd" : {
@@ -5294,8 +5424,10 @@
         "id" : "acm002092jsd",
         "name" : "FSUtil",
         "compilationUnitId" : "acm002074jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001543jsd", "acm001556jsd", "acm001569jsd" ],
         "content" : [ "acm002082jsd", "acm002083jsd", "acm002084jsd", "acm002085jsd", "acm002086jsd", "acm002087jsd", "acm002088jsd", "acm002089jsd", "acm002090jsd", "acm002091jsd" ]
       },
       "acm002093jsd" : {
@@ -5367,8 +5499,10 @@
         "id" : "acm002102jsd",
         "name" : "JNDIUtil",
         "compilationUnitId" : "acm002093jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001436jsd" ],
         "content" : [ "acm002101jsd" ]
       },
       "acm002103jsd" : {
@@ -5455,8 +5589,10 @@
         "id" : "acm002115jsd",
         "name" : "LameUtil",
         "compilationUnitId" : "acm002103jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001620jsd", "acm002115jsd" ],
         "content" : [ "acm002111jsd", "acm002112jsd", "acm002113jsd", "acm002114jsd" ]
       },
       "acm002116jsd" : {
@@ -5528,8 +5664,10 @@
         "id" : "acm002125jsd",
         "name" : "PropertiesUtil",
         "compilationUnitId" : "acm002116jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001383jsd", "acm001436jsd" ],
         "content" : [ "acm002124jsd" ]
       },
       "acm002126jsd" : {
@@ -5626,8 +5764,10 @@
         "id" : "acm002140jsd",
         "name" : "AudioWatermarkingImpl",
         "compilationUnitId" : "acm002126jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001748jsd", "acm001757jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001543jsd", "acm001556jsd", "acm001569jsd", "acm001620jsd", "acm001642jsd", "acm001730jsd", "acm002189jsd", "acm002203jsd" ],
         "content" : [ "acm002134jsd", "acm002135jsd", "acm002136jsd", "acm002137jsd", "acm002138jsd", "acm002139jsd" ]
       },
       "acm002141jsd" : {
@@ -5894,8 +6034,10 @@
         "id" : "acm002189jsd",
         "name" : "WavFile",
         "compilationUnitId" : "acm002141jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002189jsd", "acm002190jsd", "acm002203jsd" ],
         "content" : [ "acm002149jsd", "acm002150jsd", "acm002151jsd", "acm002152jsd", "acm002153jsd", "acm002154jsd", "acm002155jsd", "acm002156jsd", "acm002157jsd", "acm002158jsd", "acm002159jsd", "acm002160jsd", "acm002161jsd", "acm002162jsd", "acm002163jsd", "acm002164jsd", "acm002165jsd", "acm002166jsd", "acm002167jsd", "acm002168jsd", "acm002169jsd", "acm002170jsd", "acm002171jsd", "acm002172jsd", "acm002173jsd", "acm002174jsd", "acm002175jsd", "acm002176jsd", "acm002177jsd", "acm002178jsd", "acm002179jsd", "acm002180jsd", "acm002181jsd", "acm002182jsd", "acm002183jsd", "acm002184jsd", "acm002185jsd", "acm002186jsd", "acm002187jsd", "acm002188jsd" ]
       },
       "acm002190jsd" : {
@@ -5903,8 +6045,10 @@
         "id" : "acm002190jsd",
         "name" : "IOState",
         "compilationUnitId" : "acm002141jsd",
+        "parentDatatypeId" : "acm002189jsd",
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ ]
       },
       "acm002191jsd" : {
@@ -5991,8 +6135,10 @@
         "id" : "acm002203jsd",
         "name" : "WavFileException",
         "compilationUnitId" : "acm002191jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002199jsd", "acm002200jsd", "acm002201jsd", "acm002202jsd" ]
       },
       "acm002204jsd" : {
@@ -6079,8 +6225,10 @@
         "id" : "acm002216jsd",
         "name" : "CacheImpl",
         "compilationUnitId" : "acm002204jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001711jsd", "acm001720jsd", "acm001775jsd", "acm001784jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001543jsd", "acm001642jsd", "acm001730jsd", "acm002232jsd", "acm002248jsd" ],
         "content" : [ "acm002212jsd", "acm002213jsd", "acm002214jsd", "acm002215jsd" ]
       },
       "acm002217jsd" : {
@@ -6182,8 +6330,10 @@
         "id" : "acm002232jsd",
         "name" : "CacheSingleton",
         "compilationUnitId" : "acm002217jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm002248jsd" ],
         "content" : [ "acm002225jsd", "acm002226jsd", "acm002227jsd", "acm002228jsd", "acm002229jsd", "acm002230jsd", "acm002231jsd" ]
       },
       "acm002233jsd" : {
@@ -6285,8 +6435,10 @@
         "id" : "acm002248jsd",
         "name" : "IdAndBitrate",
         "compilationUnitId" : "acm002233jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002248jsd" ],
         "content" : [ "acm002241jsd", "acm002242jsd", "acm002243jsd", "acm002244jsd", "acm002245jsd", "acm002246jsd", "acm002247jsd" ]
       },
       "acm002249jsd" : {
@@ -6398,8 +6550,10 @@
         "id" : "acm002266jsd",
         "name" : "FacadeImpl",
         "compilationUnitId" : "acm002249jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001889jsd", "acm001898jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001532jsd", "acm001543jsd", "acm001569jsd", "acm001588jsd", "acm001610jsd", "acm001642jsd", "acm001652jsd", "acm001683jsd", "acm001968jsd", "acm002055jsd" ],
         "content" : [ "acm002257jsd", "acm002258jsd", "acm002259jsd", "acm002260jsd", "acm002261jsd", "acm002262jsd", "acm002263jsd", "acm002264jsd", "acm002265jsd" ]
       },
       "acm002267jsd" : {
@@ -6551,8 +6705,10 @@
         "id" : "acm002292jsd",
         "name" : "Audio",
         "compilationUnitId" : "acm002267jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002275jsd", "acm002276jsd", "acm002277jsd", "acm002278jsd", "acm002279jsd", "acm002280jsd", "acm002281jsd", "acm002282jsd", "acm002283jsd", "acm002284jsd", "acm002285jsd", "acm002286jsd", "acm002287jsd", "acm002288jsd", "acm002289jsd", "acm002290jsd", "acm002291jsd" ]
       },
       "acm002293jsd" : {
@@ -6649,8 +6805,10 @@
         "id" : "acm002307jsd",
         "name" : "DbManager",
         "compilationUnitId" : "acm002293jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001642jsd", "acm002292jsd" ],
         "content" : [ "acm002301jsd", "acm002302jsd", "acm002303jsd", "acm002304jsd", "acm002305jsd", "acm002306jsd" ]
       },
       "acm002308jsd" : {
@@ -6752,8 +6910,10 @@
         "id" : "acm002323jsd",
         "name" : "MediaAccessImpl",
         "compilationUnitId" : "acm002308jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001802jsd", "acm001811jsd", "acm001918jsd", "acm001938jsd", "acm001947jsd", "acm001956jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001543jsd", "acm001556jsd", "acm001569jsd", "acm001642jsd", "acm001652jsd", "acm002307jsd" ],
         "content" : [ "acm002316jsd", "acm002317jsd", "acm002318jsd", "acm002319jsd", "acm002320jsd", "acm002321jsd", "acm002322jsd" ]
       },
       "acm002324jsd" : {
@@ -6855,8 +7015,10 @@
         "id" : "acm002339jsd",
         "name" : "MediaManagementImpl",
         "compilationUnitId" : "acm002324jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001977jsd", "acm001986jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001543jsd", "acm001642jsd", "acm001652jsd", "acm001730jsd", "acm001909jsd", "acm001996jsd" ],
         "content" : [ "acm002332jsd", "acm002333jsd", "acm002334jsd", "acm002335jsd", "acm002336jsd", "acm002337jsd", "acm002338jsd" ]
       },
       "acm002340jsd" : {
@@ -6938,8 +7100,10 @@
         "id" : "acm002351jsd",
         "name" : "PackagingImpl",
         "compilationUnitId" : "acm002340jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm002005jsd", "acm002014jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001543jsd", "acm001556jsd", "acm001569jsd" ],
         "content" : [ "acm002348jsd", "acm002349jsd", "acm002350jsd" ]
       },
       "acm002352jsd" : {
@@ -7021,8 +7185,10 @@
         "id" : "acm002363jsd",
         "name" : "ReEncoderImpl",
         "compilationUnitId" : "acm002352jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001829jsd", "acm001838jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001543jsd", "acm001556jsd", "acm001569jsd", "acm001620jsd", "acm001642jsd", "acm001730jsd" ],
         "content" : [ "acm002360jsd", "acm002361jsd", "acm002362jsd" ]
       },
       "acm002364jsd" : {
@@ -7109,8 +7275,10 @@
         "id" : "acm002376jsd",
         "name" : "TagWatermarkingImpl",
         "compilationUnitId" : "acm002364jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm001856jsd", "acm001865jsd" ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001556jsd", "acm001569jsd", "acm001642jsd", "acm001730jsd" ],
         "content" : [ "acm002372jsd", "acm002373jsd", "acm002374jsd", "acm002375jsd" ]
       },
       "acm002377jsd" : {
@@ -7192,8 +7360,10 @@
         "id" : "acm002388jsd",
         "name" : "DbManager",
         "compilationUnitId" : "acm002377jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001532jsd", "acm001588jsd", "acm001610jsd", "acm001683jsd", "acm002410jsd" ],
         "content" : [ "acm002385jsd", "acm002386jsd", "acm002387jsd" ]
       },
       "acm002389jsd" : {
@@ -7325,8 +7495,10 @@
         "id" : "acm002410jsd",
         "name" : "User",
         "compilationUnitId" : "acm002389jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002397jsd", "acm002398jsd", "acm002399jsd", "acm002400jsd", "acm002401jsd", "acm002402jsd", "acm002403jsd", "acm002404jsd", "acm002405jsd", "acm002406jsd", "acm002407jsd", "acm002408jsd", "acm002409jsd" ]
       },
       "acm002411jsd" : {
@@ -7413,8 +7585,10 @@
         "id" : "acm002423jsd",
         "name" : "UserDBAdapterImpl",
         "compilationUnitId" : "acm002411jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm002035jsd", "acm002044jsd" ],
+        "datatypeReferencesIds" : [ "acm001532jsd", "acm001588jsd", "acm001610jsd", "acm001683jsd", "acm002388jsd" ],
         "content" : [ "acm002419jsd", "acm002420jsd", "acm002421jsd", "acm002422jsd" ]
       },
       "acm002424jsd" : {
@@ -7516,8 +7690,10 @@
         "id" : "acm002439jsd",
         "name" : "SecurityUtil",
         "compilationUnitId" : "acm002424jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002432jsd", "acm002433jsd", "acm002434jsd", "acm002435jsd", "acm002436jsd", "acm002437jsd", "acm002438jsd" ]
       },
       "acm002440jsd" : {
@@ -7604,8 +7780,10 @@
         "id" : "acm002452jsd",
         "name" : "UserManagementImpl",
         "compilationUnitId" : "acm002440jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ "acm002064jsd", "acm002073jsd" ],
+        "datatypeReferencesIds" : [ "acm001532jsd", "acm001588jsd", "acm001610jsd", "acm001683jsd", "acm002026jsd" ],
         "content" : [ "acm002448jsd", "acm002449jsd", "acm002450jsd", "acm002451jsd" ]
       },
       "acm002453jsd" : {
@@ -7752,8 +7930,10 @@
         "id" : "acm002477jsd",
         "name" : "DownloadBean",
         "compilationUnitId" : "acm002453jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001510jsd", "acm001543jsd", "acm001556jsd", "acm001569jsd", "acm001642jsd", "acm001880jsd", "acm002523jsd" ],
         "content" : [ "acm002461jsd", "acm002462jsd", "acm002463jsd", "acm002464jsd", "acm002465jsd", "acm002466jsd", "acm002467jsd", "acm002468jsd", "acm002469jsd", "acm002470jsd", "acm002471jsd", "acm002472jsd", "acm002473jsd", "acm002474jsd", "acm002475jsd", "acm002476jsd" ]
       },
       "acm002478jsd" : {
@@ -7855,8 +8035,10 @@
         "id" : "acm002493jsd",
         "name" : "LoginBean",
         "compilationUnitId" : "acm002478jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001532jsd", "acm001610jsd", "acm001880jsd", "acm002523jsd" ],
         "content" : [ "acm002486jsd", "acm002487jsd", "acm002488jsd", "acm002489jsd", "acm002490jsd", "acm002491jsd", "acm002492jsd" ]
       },
       "acm002494jsd" : {
@@ -7968,8 +8150,10 @@
         "id" : "acm002511jsd",
         "name" : "RegisterBean",
         "compilationUnitId" : "acm002494jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001588jsd", "acm001683jsd", "acm001880jsd" ],
         "content" : [ "acm002502jsd", "acm002503jsd", "acm002504jsd", "acm002505jsd", "acm002506jsd", "acm002507jsd", "acm002508jsd", "acm002509jsd", "acm002510jsd" ]
       },
       "acm002512jsd" : {
@@ -8051,8 +8235,10 @@
         "id" : "acm002523jsd",
         "name" : "SessionBean",
         "compilationUnitId" : "acm002512jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001532jsd" ],
         "content" : [ "acm002520jsd", "acm002521jsd", "acm002522jsd" ]
       },
       "acm002524jsd" : {
@@ -8234,8 +8420,10 @@
         "id" : "acm002555jsd",
         "name" : "UploadBean",
         "compilationUnitId" : "acm002524jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001481jsd", "acm001510jsd", "acm001556jsd", "acm001569jsd", "acm001652jsd", "acm001880jsd", "acm002477jsd", "acm002523jsd" ],
         "content" : [ "acm002532jsd", "acm002533jsd", "acm002534jsd", "acm002535jsd", "acm002536jsd", "acm002537jsd", "acm002538jsd", "acm002539jsd", "acm002540jsd", "acm002541jsd", "acm002542jsd", "acm002543jsd", "acm002544jsd", "acm002545jsd", "acm002546jsd", "acm002547jsd", "acm002548jsd", "acm002549jsd", "acm002550jsd", "acm002551jsd", "acm002552jsd", "acm002553jsd", "acm002554jsd" ]
       },
       "acm002556jsd" : {
@@ -8327,8 +8515,10 @@
         "id" : "acm002569jsd",
         "name" : "WebBeanManager",
         "compilationUnitId" : "acm002556jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001347jsd", "acm001692jsd", "acm002573jsd" ],
         "content" : [ "acm002564jsd", "acm002565jsd", "acm002566jsd", "acm002567jsd", "acm002568jsd" ]
       },
       "acm002570jsd" : {
@@ -8351,8 +8541,10 @@
         "id" : "acm002573jsd",
         "name" : "WebBean",
         "compilationUnitId" : "acm002556jsd",
+        "parentDatatypeId" : "acm002569jsd",
         "extendedDataTypesIds" : [ "acm001347jsd" ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm001692jsd" ],
         "content" : [ "acm002570jsd", "acm002571jsd", "acm002572jsd" ]
       },
       "acm002574jsd" : {
@@ -8434,8 +8626,10 @@
         "id" : "acm002585jsd",
         "name" : "MainFilter",
         "compilationUnitId" : "acm002574jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ "acm002523jsd" ],
         "content" : [ "acm002582jsd", "acm002583jsd", "acm002584jsd" ]
       },
       "acm002586jsd" : {
@@ -8517,8 +8711,10 @@
         "id" : "acm002597jsd",
         "name" : "MessageUtil",
         "compilationUnitId" : "acm002586jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002594jsd", "acm002595jsd", "acm002596jsd" ]
       },
       "acm002598jsd" : {
@@ -8590,8 +8786,10 @@
         "id" : "acm002607jsd",
         "name" : "SessionUtil",
         "compilationUnitId" : "acm002598jsd",
+        "parentDatatypeId" : null,
         "extendedDataTypesIds" : [ ],
         "implementedDataTypesIds" : [ ],
+        "datatypeReferencesIds" : [ ],
         "content" : [ "acm002606jsd" ]
       }
     }
