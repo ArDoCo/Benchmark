@@ -19,7 +19,7 @@ Each project of the benchmark is structured as follows:
 	* The file `goldstandard_sad_<year>-sam_<year>_UME.csv` contains all IDs of model elements that are contained in the model but not described in the text.
 	* The file `goldstandard_sad_<year>_code_<year>.csv` contains the traceability links between SAD and code models.
 	* The file `goldstandard_sam_<year>-code_<year>.csv` is a gold standard for mapping the architecture elements and code elements.
-    * The file `goldstandard_sad_id_<year>.json` contains the traceability links between SAD and informal diagrams. The JSON schema is specified in the [DiagramSchema](DiagramSchema.json) file.
+	* The file `goldstandard_sad_id_<year>.json` contains the traceability links between SAD and informal diagrams. The JSON schema is specified in the [DiagramSchema](DiagramSchema.json) file.
 	
 
 
@@ -49,5 +49,5 @@ JabRef is a tool to manage citations and references in your bibliographies. It h
 ## LICENSE
 > **Note**
 >
-> Our LICENSE does only apply to the models and the Gold Standards (CSV & JSON files). The texts are licensed w.r.t. to the actual projects.
-> More details about the LICENSE can be found in the README files of the respective texts.
+> Our LICENSE does only apply to the models and the Gold Standards (CSV & JSON files). The texts and diagrams are licensed w.r.t. to the actual projects.
+> More details about the LICENSE can be found in the README files of the respective texts and diagrams.
